@@ -1,0 +1,1001 @@
+﻿Emp Id,Full Name,Job Title,Department,Business Unit,Gender,Ethnicity,Age,Hire Date,Annual Salary,Country,City
+1,Riley Washington,Director,Sales,Speciality Products,Female,Caucasian,39,2007-04-29,171487,United States,Phoenix
+2,Elena Vang,Analyst,Finance,Corporate,Female,Asian,52,2007-04-30,55859,China,Beijing
+3,Raelynn Ma,Sr. Analyst,Finance,Speciality Products,Female,Asian,33,2007-05-01,94876,United States,Miami
+4,Elena Her,Account Representative,Sales,Manufacturing,Female,Asian,62,2007-05-02,64669,China,Chongqing
+5,Gabriel Joseph,Director,Engineering,Manufacturing,Male,Caucasian,52,2007-05-03,187992,United States,Miami
+6,Caroline Herrera,Sr. Manger,Marketing,Manufacturing,Female,Latino,45,2007-05-04,121065,Brazil,Rio de Janerio
+7,Lillian Gonzales,Cloud Infrastructure Architect,IT,Manufacturing,Female,Latino,43,2007-05-05,62335,Brazil,Manaus
+8,Scarlett Jenkins,Vice President,IT,Research & Development,Female,Caucasian,53,2007-05-06,198473,United States,Miami
+9,Eva Garcia,HRIS Analyst,Human Resources,Corporate,Female,Latino,31,2007-05-07,72235,Brazil,Manaus
+10,Isla Wong,Vice President,Accounting,Corporate,Female,Asian,56,2007-05-08,190815,United States,Austin
+11,Mason Watson,Sr. Manger,IT,Corporate,Male,Caucasian,46,2007-05-09,130274,United States,Chicago
+12,Sofia Yoon,Sr. Manger,Human Resources,Research & Development,Female,Asian,37,2007-05-10,131353,China,Shanghai
+13,Emilia Chu,Analyst II,Finance,Manufacturing,Female,Asian,48,2007-05-11,55760,United States,Austin
+14,Peyton Cruz,Development Engineer,Engineering,Manufacturing,Female,Latino,30,2007-05-12,91134,Brazil,Sao Paulo
+15,Brooklyn Salazar,IT Systems Architect,IT,Manufacturing,Female,Latino,44,2007-05-13,82462,United States,Austin
+16,Riley Rojas,Network Architect,IT,Speciality Products,Female,Latino,36,2007-05-14,90333,Brazil,Rio de Janerio
+17,Nora Park,Director,Accounting,Speciality Products,Female,Asian,29,2007-05-15,197649,United States,Columbus
+18,Isla Espinoza,Manager,Accounting,Speciality Products,Female,Latino,38,2007-05-16,109812,Brazil,Manaus
+19,Madelyn Mehta,Analyst,Sales,Speciality Products,Female,Asian,64,2007-05-17,55369,United States,Phoenix
+20,Jack Maldonado,Director,Engineering,Research & Development,Male,Latino,31,2007-05-18,189290,Brazil,Sao Paulo
+21,Isabella Scott,Network Administrator,IT,Research & Development,Female,Caucasian,58,2007-05-19,72045,United States,Phoenix
+22,Everleigh Espinoza,Director,Human Resources,Manufacturing,Female,Latino,54,2007-05-20,176294,United States,Austin
+23,Paisley Kang,Vice President,Human Resources,Corporate,Female,Asian,61,2007-05-21,196951,China,Beijing
+24,Theodore Ngo,Controls Engineer,Engineering,Research & Development,Male,Asian,55,2007-05-22,83378,China,Beijing
+25,Alexander Rivera,Sr. Analyst,Sales,Research & Development,Male,Latino,58,2007-05-23,76802,Brazil,Manaus
+26,Kinsley Dixon,Analyst,Accounting,Manufacturing,Female,Caucasian,28,2007-05-24,45819,United States,Miami
+27,Claire Jones,Field Engineer,Engineering,Corporate,Female,Caucasian,39,2007-05-25,62644,United States,Seattle
+28,Wyatt Chin,Vice President,Engineering,Speciality Products,Male,Asian,43,2007-05-26,246231,United States,Seattle
+29,Madelyn Scott,Sr. Manger,IT,Research & Development,Female,Caucasian,46,2007-05-27,148035,United States,Phoenix
+30,Ryan Ha,Vice President,Marketing,Corporate,Male,Asian,60,2007-05-28,234311,United States,Miami
+31,Bella Powell,Director,Finance,Research & Development,Female,Black,65,2007-05-29,175837,United States,Phoenix
+32,Claire Adams,Director,Sales,Manufacturing,Female,Black,61,2007-05-30,159567,United States,Phoenix
+33,Hannah Nelson,Sr. Analyst,Marketing,Speciality Products,Female,Caucasian,35,2007-05-31,70992,United States,Austin
+34,Harper Alexander,Sr. Analyst,Sales,Speciality Products,Female,Caucasian,26,2007-06-01,79356,United States,Phoenix
+35,Genesis Hu,Sr. Analyst,Marketing,Corporate,Female,Asian,46,2007-06-02,86510,China,Beijing
+36,Kayden Ortega,Analyst,Accounting,Manufacturing,Male,Latino,58,2007-06-03,56350,Brazil,Rio de Janerio
+37,Miles Mehta,Director,Finance,Research & Development,Male,Asian,64,2007-06-04,189933,United States,Miami
+38,Julia Doan,Business Partner,Human Resources,Speciality Products,Female,Asian,53,2007-06-05,46727,United States,Columbus
+39,Theodore Xi,Manager,Finance,Corporate,Male,Asian,52,2007-06-06,122890,China,Shanghai
+40,Hailey Lai,Vice President,Human Resources,Manufacturing,Female,Asian,52,2007-06-07,187048,China,Chengdu
+41,David Desai,Vice President,Sales,Speciality Products,Male,Asian,47,2007-06-08,253249,United States,Austin
+42,Angel Delgado,Director,Finance,Corporate,Male,Latino,31,2007-06-09,156931,United States,Seattle
+43,Brooklyn Reyes,Service Desk Analyst,IT,Manufacturing,Female,Latino,36,2007-06-10,91954,United States,Columbus
+44,Benjamin Delgado,Test Engineer,Engineering,Corporate,Male,Latino,64,2007-06-11,70778,United States,Austin
+45,Lucas Daniels,Manager,Sales,Corporate,Male,Black,42,2007-06-12,102440,United States,Chicago
+46,Samuel Morales,Analyst II,Finance,Corporate,Male,Latino,34,2007-06-13,57008,United States,Phoenix
+47,Mila Vasquez,Quality Engineer,Engineering,Manufacturing,Female,Latino,60,2007-06-14,92932,United States,Columbus
+48,Ian Flores,Director,Engineering,Corporate,Male,Latino,48,2007-06-15,183113,Brazil,Rio de Janerio
+49,David Owens,Sr. Analyst,Sales,Corporate,Male,Black,43,2007-06-16,94246,United States,Austin
+50,Alexander Jackson,Manager,Human Resources,Corporate,Male,Caucasian,45,2007-06-17,109883,United States,Columbus
+51,Kennedy Romero,Engineering Manager,Engineering,Research & Development,Female,Latino,37,2007-06-18,87359,Brazil,Rio de Janerio
+52,Ezekiel Jordan,Sr. Manger,Accounting,Corporate,Male,Caucasian,33,2007-06-19,144231,United States,Columbus
+53,Jeremiah Castillo,Analyst II,Accounting,Research & Development,Male,Latino,58,2007-06-20,64202,United States,Columbus
+54,Luca Nelson,Manager,Finance,Speciality Products,Male,Caucasian,60,2007-06-21,106578,United States,Miami
+55,Maverick Figueroa,IT Systems Architect,IT,Corporate,Male,Latino,48,2007-06-22,94815,United States,Chicago
+56,Dylan Choi,Vice President,IT,Corporate,Male,Asian,63,2007-06-23,231141,China,Beijing
+57,Piper Patterson,Quality Engineer,Engineering,Corporate,Female,Caucasian,45,2007-06-24,88045,United States,Chicago
+58,Mateo Williams,Enterprise Architect,IT,Manufacturing,Male,Caucasian,40,2007-06-25,97339,United States,Austin
+59,Scarlett Figueroa,Business Partner,Human Resources,Speciality Products,Female,Latino,34,2007-06-26,52811,United States,Miami
+60,Ezra Wilson,Service Desk Analyst,IT,Manufacturing,Male,Caucasian,55,2007-06-27,70334,United States,Miami
+61,Hailey Song,Manager,Finance,Research & Development,Female,Asian,37,2007-06-28,124928,China,Chongqing
+62,Jameson Chen,Vice President,Marketing,Research & Development,Male,Asian,39,2007-06-29,254057,China,Shanghai
+63,Eliana Allen,Business Partner,Human Resources,Research & Development,Female,Caucasian,56,2007-06-30,52800,United States,Phoenix
+64,Wesley Doan,Manager,Finance,Corporate,Male,Asian,63,2007-07-01,122487,China,Shanghai
+65,Savannah He,Director,IT,Research & Development,Female,Asian,52,2007-07-02,159724,China,Beijing
+66,Logan Carrillo,Sr. Analyst,Marketing,Research & Development,Male,Latino,33,2007-07-03,91280,United States,Miami
+67,Dylan Thao,Director,Engineering,Manufacturing,Male,Asian,53,2007-07-04,168510,United States,Seattle
+68,Matthew Howard,Director,Human Resources,Manufacturing,Male,Caucasian,50,2007-07-05,172180,United States,Columbus
+69,Jonathan Patel,Manager,Marketing,Corporate,Male,Asian,28,2007-07-06,115417,China,Shanghai
+70,Genesis Woods,Manager,Human Resources,Speciality Products,Female,Black,33,2007-07-07,105390,United States,Columbus
+71,Melody Grant,Quality Engineer,Engineering,Corporate,Female,Caucasian,41,2007-07-08,79352,United States,Seattle
+72,Alice Thompson,Vice President,Accounting,Speciality Products,Female,Caucasian,48,2007-07-09,217783,United States,Seattle
+73,Parker James,Quality Engineer,Engineering,Speciality Products,Male,Black,45,2007-07-10,70505,United States,Austin
+74,Connor Walker,Analyst II,Finance,Manufacturing,Male,Caucasian,30,2007-07-11,54714,United States,Columbus
+75,Wesley Adams,System Administrator ,IT,Corporate,Male,Caucasian,48,2007-07-12,93017,United States,Seattle
+76,Dominic Guzman,Analyst,Finance,Manufacturing,Male,Latino,65,2007-07-13,55499,Brazil,Manaus
+77,Liliana Soto,Business Partner,Human Resources,Manufacturing,Female,Latino,58,2007-07-14,43001,United States,Austin
+78,Ezra Banks,Analyst II,Sales,Research & Development,Male,Caucasian,37,2007-07-15,57531,United States,Chicago
+79,Leilani Butler,Analyst II,Marketing,Manufacturing,Female,Black,27,2007-07-16,68728,United States,Phoenix
+80,Everleigh Fernandez,Director,Engineering,Research & Development,Female,Latino,30,2007-07-17,189702,Brazil,Manaus
+81,Athena Carrillo,Analyst II,Finance,Speciality Products,Female,Latino,39,2007-07-18,71531,United States,Columbus
+82,Jade Acosta,Development Engineer,Engineering,Research & Development,Female,Latino,47,2007-07-19,68488,United States,Seattle
+83,Skylar Doan,Sr. Business Partner,Human Resources,Research & Development,Female,Asian,58,2007-07-20,93102,United States,Seattle
+84,Eliza Hernandez,Network Architect,IT,Corporate,Female,Latino,48,2007-07-21,76588,Brazil,Rio de Janerio
+85,Eli Gupta,Director,Human Resources,Research & Development,Male,Asian,37,2007-07-22,160280,China,Beijing
+86,Lincoln Reyes,Computer Systems Manager,IT,Manufacturing,Male,Latino,60,2007-07-23,85120,United States,Seattle
+87,Everly Walker,HRIS Analyst,Human Resources,Speciality Products,Female,Caucasian,41,2007-07-24,54415,United States,Seattle
+88,Adeline Thao,Vice President,Finance,Corporate,Female,Asian,54,2007-07-25,183239,United States,Seattle
+89,Jack Huynh,Manager,Marketing,Research & Development,Male,Asian,27,2007-07-26,114441,China,Chongqing
+90,Nolan Bui,Computer Systems Manager,IT,Research & Development,Male,Asian,28,2007-07-27,67925,China,Shanghai
+91,Isaac Han,Vice President,Human Resources,Speciality Products,Male,Asian,31,2007-07-28,230025,United States,Phoenix
+92,Hudson Hill,Sr. Analyst,Sales,Research & Development,Male,Caucasian,30,2007-07-29,96092,United States,Austin
+93,Hailey Sanchez,Vice President,Marketing,Corporate,Female,Latino,32,2007-07-30,203445,Brazil,Manaus
+94,Jackson Jordan,Business Partner,Human Resources,Research & Development,Male,Black,48,2007-07-31,54654,United States,Phoenix
+95,Dominic Parker,Test Engineer,Engineering,Research & Development,Male,Caucasian,62,2007-08-01,63959,United States,Seattle
+96,Brooklyn Cho,Technical Architect,IT,Manufacturing,Female,Asian,45,2007-08-02,92655,China,Chengdu
+97,Sofia Dinh,Operations Engineer,Engineering,Corporate,Female,Asian,55,2007-08-03,80701,United States,Chicago
+98,Hadley Yee,Business Partner,Human Resources,Speciality Products,Female,Asian,31,2007-08-04,47913,United States,Seattle
+99,Jameson Nelson,Network Architect,IT,Research & Development,Male,Caucasian,61,2007-08-05,96566,United States,Columbus
+100,Emery Hunter,Sr. Analyst,Sales,Corporate,Female,Caucasian,28,2007-08-06,82739,United States,Phoenix
+101,Robert Alvarez,Service Desk Analyst,IT,Corporate,Male,Latino,39,2007-08-07,84297,Brazil,Manaus
+102,Henry Shah,Director,Accounting,Manufacturing,Male,Asian,55,2007-08-08,187389,China,Chengdu
+103,Melody Ho,Analyst II,Finance,Research & Development,Female,Asian,55,2007-08-09,64494,United States,Columbus
+104,Natalia Salazar,Sr. Analyst,Accounting,Manufacturing,Female,Latino,44,2007-08-10,74691,Brazil,Manaus
+105,Leah Patterson,Manager,Human Resources,Research & Development,Female,Caucasian,33,2007-08-11,118253,United States,Austin
+106,Thomas Jung,Sr. Analyst,Accounting,Research & Development,Male,Asian,50,2007-08-12,79447,China,Shanghai
+107,Joseph Vazquez,Sr. Manger,Accounting,Speciality Products,Male,Latino,40,2007-08-13,159031,United States,Miami
+108,Lydia Morales,Manager,Finance,Speciality Products,Female,Latino,51,2007-08-14,108221,Brazil,Manaus
+109,Lily Carter,Network Architect,IT,Research & Development,Female,Caucasian,54,2007-08-15,68268,United States,Phoenix
+110,Daniel Jordan,Network Administrator,IT,Corporate,Male,Caucasian,58,2007-08-16,69260,United States,Phoenix
+111,Mateo Chu,Field Engineer,Engineering,Speciality Products,Male,Asian,27,2007-08-17,71864,China,Chengdu
+112,Eli Jones,Manager,Human Resources,Manufacturing,Male,Caucasian,59,2007-08-18,105086,United States,Austin
+113,Naomi Chu,Sr. Manger,Sales,Manufacturing,Female,Asian,46,2007-08-19,158897,China,Chongqing
+114,Nathan Mendez,Manager,IT,Speciality Products,Male,Latino,53,2007-08-20,120128,United States,Austin
+115,Caleb Xiong,Sr. Account Representative,Sales,Corporate,Male,Asian,38,2007-08-21,74010,United States,Chicago
+116,Isabella Xi,Vice President,Marketing,Research & Development,Female,Asian,41,2007-08-22,249270,United States,Seattle
+117,Isla Yoon,Quality Engineer,Engineering,Research & Development,Female,Asian,50,2007-08-23,79388,United States,Austin
+118,Christian Ali,Analyst II,Marketing,Research & Development,Male,Asian,65,2007-08-24,74631,China,Chongqing
+119,Sofia Trinh,Network Architect,IT,Speciality Products,Female,Asian,45,2007-08-25,68337,China,Chongqing
+120,Grayson Walker,Director,Accounting,Manufacturing,Male,Caucasian,29,2007-08-26,181854,United States,Seattle
+121,Penelope Silva,Network Architect,IT,Speciality Products,Female,Latino,36,2007-08-27,94618,United States,Columbus
+122,Ava Garza,Director,Accounting,Manufacturing,Female,Latino,27,2007-08-28,174097,United States,Phoenix
+123,Ian Vargas,Analyst,Sales,Manufacturing,Male,Latino,26,2007-08-29,44732,Brazil,Rio de Janerio
+124,Nora Nunez,Analyst II,Finance,Research & Development,Female,Latino,45,2007-08-30,58586,Brazil,Sao Paulo
+125,Sadie Washington,Sr. Manger,Marketing,Research & Development,Female,Caucasian,29,2007-08-31,122350,United States,Phoenix
+126,Savannah Ali,Sr. Manger,Human Resources,Manufacturing,Female,Asian,36,2007-09-01,157333,United States,Miami
+127,Josephine Richardson,System Administrator ,IT,Manufacturing,Female,Caucasian,57,2007-09-02,75354,United States,Austin
+128,Luke Wilson,Solutions Architect,IT,Speciality Products,Male,Caucasian,34,2007-09-03,94352,United States,Miami
+129,Everly Chow,Sr. Manger,Finance,Speciality Products,Female,Asian,33,2007-09-04,140402,China,Beijing
+130,Nova Williams,Manager,Finance,Speciality Products,Female,Black,61,2007-09-05,110302,United States,Miami
+131,Jameson Allen,Director,Marketing,Speciality Products,Male,Caucasian,32,2007-09-06,177443,United States,Seattle
+132,Anna Han,Development Engineer,Engineering,Manufacturing,Female,Asian,29,2007-09-07,75012,United States,Chicago
+133,William Watson,Director,Accounting,Speciality Products,Male,Caucasian,41,2007-09-08,167526,United States,Miami
+134,Luna Simmons,Sr. Analyst,Finance,Corporate,Female,Caucasian,28,2007-09-09,95045,United States,Chicago
+135,Angel Chang,Network Architect,IT,Research & Development,Male,Asian,37,2007-09-10,96331,China,Shanghai
+136,Samantha Chavez,Sr. Analyst,Sales,Speciality Products,Female,Latino,53,2007-09-11,75769,Brazil,Manaus
+137,David Simmons,Manager,Marketing,Corporate,Male,Caucasian,51,2007-09-12,104431,United States,Phoenix
+138,Benjamin Mai,System Administrator ,IT,Corporate,Male,Asian,54,2007-09-13,95239,United States,Phoenix
+139,Paisley Bryant,Cloud Infrastructure Architect,IT,Manufacturing,Female,Black,37,2007-09-14,91400,United States,Chicago
+140,Joshua Gupta,Account Representative,Sales,Corporate,Male,Asian,57,2007-09-15,50994,China,Chongqing
+141,Charles Moore,Analyst,Accounting,Speciality Products,Male,Caucasian,49,2007-09-16,56878,United States,Seattle
+142,Emily Gupta,HRIS Analyst,Human Resources,Corporate,Female,Asian,44,2007-09-17,63705,United States,Miami
+143,Dylan Ali,Sr. Manger,Human Resources,Speciality Products,Male,Asian,27,2007-09-18,133400,United States,Phoenix
+144,Emery Chang,Business Partner,Human Resources,Research & Development,Female,Asian,45,2007-09-19,55563,China,Chengdu
+145,David Chu,Controls Engineer,Engineering,Corporate,Male,Asian,55,2007-09-20,86299,United States,Seattle
+146,Skylar Shah,Field Engineer,Engineering,Manufacturing,Female,Asian,42,2007-09-21,72903,United States,Phoenix
+147,Miles Cho,Systems Analyst,IT,Speciality Products,Male,Asian,47,2007-09-22,49404,China,Beijing
+148,Leonardo Dixon,Analyst,Sales,Speciality Products,Male,Caucasian,37,2007-09-23,49998,United States,Seattle
+149,Mila Pena,Sr. Business Partner,Human Resources,Manufacturing,Female,Latino,45,2007-09-24,93840,Brazil,Manaus
+150,Landon Luu,Vice President,IT,Research & Development,Male,Asian,31,2007-09-25,215388,United States,Miami
+151,Isaac Yoon,Manager,Human Resources,Corporate,Male,Asian,41,2007-09-26,126950,United States,Chicago
+152,Sofia Fernandez,Manager,Accounting,Manufacturing,Female,Latino,44,2007-09-27,105223,United States,Phoenix
+153,Ezekiel Desai,Director,Finance,Research & Development,Male,Asian,42,2007-09-28,166599,United States,Seattle
+154,Avery Yee,Systems Analyst,IT,Manufacturing,Female,Asian,34,2007-09-29,44614,United States,Miami
+155,Jonathan Chavez,System Administrator ,IT,Manufacturing,Male,Latino,29,2007-09-30,87536,United States,Seattle
+156,Ava Ayala,Sr. Manger,IT,Corporate,Female,Latino,55,2007-10-01,159044,Brazil,Manaus
+157,Madeline Garcia,Sr. Business Partner,Human Resources,Speciality Products,Female,Latino,45,2007-10-02,74891,Brazil,Rio de Janerio
+158,Nathan Pham,Sr. Manger,Accounting,Manufacturing,Male,Asian,45,2007-10-03,149537,United States,Seattle
+159,Wesley Dominguez,Engineering Manager,Engineering,Corporate,Male,Latino,45,2007-10-04,115490,United States,Chicago
+160,Melody Chin,Sr. Manger,Finance,Corporate,Female,Asian,43,2007-10-05,153492,United States,Chicago
+161,Elijah Kang,Vice President,Engineering,Manufacturing,Male,Asian,35,2007-10-06,245482,United States,Seattle
+162,John Chow,Sr. Manger,Marketing,Research & Development,Male,Asian,45,2007-10-07,135062,China,Chengdu
+163,Madelyn Chan,Manager,Sales,Speciality Products,Female,Asian,64,2007-10-08,106444,United States,Phoenix
+164,Axel Santos,Sr. Analyst,Accounting,Speciality Products,Male,Latino,62,2007-10-09,94422,United States,Phoenix
+165,Kennedy Vargas,Business Partner,Human Resources,Manufacturing,Female,Latino,45,2007-10-10,51404,Brazil,Manaus
+166,Nova Herrera,Account Representative,Sales,Speciality Products,Female,Latino,45,2007-10-11,65047,Brazil,Sao Paulo
+167,Cooper Mitchell,Manager,Sales,Speciality Products,Male,Caucasian,43,2007-10-12,117518,United States,Seattle
+168,Leilani Baker,Technical Architect,IT,Speciality Products,Female,Caucasian,59,2007-10-13,76027,United States,Seattle
+169,Valentina Moua,Account Representative,Sales,Manufacturing,Female,Asian,37,2007-10-14,64204,United States,Columbus
+170,Luna Liu,Vice President,Sales,Manufacturing,Female,Asian,36,2007-10-15,218530,China,Shanghai
+171,Alice Roberts,Director,Human Resources,Manufacturing,Female,Caucasian,54,2007-10-16,162978,United States,Miami
+172,Jonathan Khan,Account Representative,Sales,Manufacturing,Male,Asian,35,2007-10-17,59646,China,Shanghai
+173,Jose Kang,Engineering Manager,Engineering,Corporate,Male,Asian,57,2007-10-18,95061,China,Shanghai
+174,Ella Nguyen,Service Desk Analyst,IT,Corporate,Female,Asian,60,2007-10-19,90258,China,Chongqing
+175,Hannah Hoang,Manager,Accounting,Speciality Products,Female,Asian,25,2007-10-20,114893,China,Chengdu
+176,Emily Contreras,Analyst II,Sales,Manufacturing,Female,Latino,56,2007-10-21,59591,Brazil,Sao Paulo
+177,Thomas Padilla,Vice President,Marketing,Research & Development,Male,Latino,57,2007-10-22,206624,Brazil,Sao Paulo
+178,Hunter Nunez,Vice President,Human Resources,Corporate,Male,Latino,62,2007-10-23,234594,United States,Seattle
+179,Autumn Joseph,Enterprise Architect,IT,Corporate,Female,Black,39,2007-10-24,73317,United States,Miami
+180,Skylar Watson,Network Architect,IT,Speciality Products,Female,Caucasian,28,2007-10-25,64475,United States,Phoenix
+181,Everleigh Adams,Analyst II,Marketing,Manufacturing,Female,Caucasian,33,2007-10-26,68846,United States,Chicago
+182,Anna Molina,Sr. Analyst,Accounting,Corporate,Female,Latino,41,2007-10-27,70165,United States,Columbus
+183,Rylee Bui,Analyst,Accounting,Corporate,Female,Asian,55,2007-10-28,54733,China,Chongqing
+184,Vivian Guzman,Analyst II,Finance,Speciality Products,Female,Latino,53,2007-10-29,58605,United States,Phoenix
+185,Addison Roberts,Network Architect,IT,Manufacturing,Female,Caucasian,65,2007-10-30,60985,United States,Seattle
+186,Wesley King,Manager,Accounting,Manufacturing,Male,Caucasian,57,2007-10-31,101577,United States,Chicago
+187,John Vega,Vice President,Finance,Corporate,Male,Latino,50,2007-11-01,247939,Brazil,Rio de Janerio
+188,Levi Moreno,Systems Analyst,IT,Research & Development,Male,Latino,64,2007-11-02,40316,Brazil,Manaus
+189,Lincoln Ramos,Operations Engineer,Engineering,Corporate,Male,Latino,59,2007-11-03,96313,United States,Austin
+190,Samantha Aguilar,Manager,Accounting,Speciality Products,Female,Latino,46,2007-11-04,102636,United States,Seattle
+191,Nova Lin,Cloud Infrastructure Architect,IT,Manufacturing,Female,Asian,33,2007-11-05,69332,United States,Columbus
+192,Evelyn Liang,Service Desk Analyst,IT,Speciality Products,Female,Asian,40,2007-11-06,69096,United States,Seattle
+193,Alexander Choi,Manager,Marketing,Research & Development,Male,Asian,55,2007-11-07,102270,United States,Chicago
+194,Grace Carter,Sr. Manger,Human Resources,Speciality Products,Female,Black,25,2007-11-08,155080,United States,Austin
+195,Camila Silva,Sr. Manger,Marketing,Speciality Products,Female,Latino,64,2007-11-09,154828,United States,Seattle
+196,Eleanor Delgado,Sr. Analyst,Marketing,Manufacturing,Female,Latino,33,2007-11-10,75869,Brazil,Sao Paulo
+197,Skylar Bell,Vice President,Engineering,Manufacturing,Female,Caucasian,30,2007-11-11,255431,United States,Columbus
+198,Allison Espinoza,Solutions Architect,IT,Speciality Products,Female,Latino,45,2007-11-12,66958,United States,Miami
+199,Joseph Martin,Analyst II,Marketing,Corporate,Male,Black,41,2007-11-13,64847,United States,Miami
+200,Sophie Ali,Analyst,Finance,Manufacturing,Female,Asian,55,2007-11-14,50475,United States,Columbus
+201,Elena Mendoza,Director,Sales,Speciality Products,Female,Latino,27,2007-11-15,154973,Brazil,Sao Paulo
+202,Everly Lin,Business Partner,Human Resources,Manufacturing,Female,Asian,25,2007-11-16,47974,China,Chongqing
+203,Jaxon Powell,Field Engineer,Engineering,Research & Development,Male,Caucasian,59,2007-11-17,62605,United States,Austin
+204,Leilani Thao,Director,Human Resources,Speciality Products,Female,Asian,38,2007-11-18,198562,United States,Seattle
+205,Theodore Marquez,Development Engineer,Engineering,Speciality Products,Male,Latino,54,2007-11-19,94407,Brazil,Sao Paulo
+206,Eleanor Chau,Development Engineer,Engineering,Research & Development,Female,Asian,37,2007-11-20,80659,United States,Phoenix
+207,Genesis Perry,Sr. Manger,Sales,Corporate,Female,Caucasian,46,2007-11-21,149712,United States,Columbus
+208,Jacob Khan,Computer Systems Manager,IT,Speciality Products,Male,Asian,53,2007-11-22,84193,China,Shanghai
+209,Hazel Cortez,HRIS Analyst,Human Resources,Research & Development,Female,Latino,52,2007-11-23,50548,Brazil,Sao Paulo
+210,Amelia Salazar,Analyst II,Finance,Corporate,Female,Latino,26,2007-11-24,59817,Brazil,Sao Paulo
+211,Zoe Rodriguez,Director,Human Resources,Speciality Products,Female,Latino,65,2007-11-25,153938,United States,Phoenix
+212,Miles Thao,System Administrator ,IT,Corporate,Male,Asian,57,2007-11-26,63318,United States,Columbus
+213,Charlotte Baker,Analyst II,Sales,Manufacturing,Female,Caucasian,29,2007-11-27,60930,United States,Austin
+214,Elias Ali,Manager,Sales,Corporate,Male,Asian,28,2007-11-28,127543,China,Shanghai
+215,Autumn Leung,Vice President,Finance,Research & Development,Female,Asian,25,2007-11-29,210708,United States,Chicago
+216,Lucas Phan,Director,Marketing,Research & Development,Male,Asian,49,2007-11-30,191807,China,Chongqing
+217,Dominic Scott,Sr. Analyst,Sales,Corporate,Male,Caucasian,45,2007-12-01,81687,United States,Phoenix
+218,Jeremiah Chu,IT Systems Architect,IT,Research & Development,Male,Asian,31,2007-12-02,96567,China,Shanghai
+219,Jaxson Dinh,Sr. Manger,Marketing,Research & Development,Male,Asian,45,2007-12-03,147752,China,Shanghai
+220,Parker Vang,Analyst,Sales,Corporate,Male,Asian,40,2007-12-04,50733,United States,Miami
+221,Clara Kang,Sr. Manger,IT,Manufacturing,Female,Asian,39,2007-12-05,135325,United States,Phoenix
+222,Leonardo Martin,Manager,Finance,Speciality Products,Male,Black,51,2007-12-06,125375,United States,Chicago
+223,Grayson Brown,Vice President,IT,Corporate,Male,Caucasian,38,2007-12-07,249870,United States,Chicago
+224,Joshua Juarez,Analyst II,Finance,Manufacturing,Male,Latino,46,2007-12-08,64364,Brazil,Sao Paulo
+225,Sofia Vu,Sr. Manger,Human Resources,Research & Development,Female,Asian,52,2007-12-09,140042,United States,Austin
+226,Nicholas Brooks,Analyst II,Accounting,Manufacturing,Male,Caucasian,43,2007-12-10,56555,United States,Phoenix
+227,Jacob Cheng,Quality Engineer,Engineering,Research & Development,Male,Asian,59,2007-12-11,78006,United States,Miami
+228,Ethan Mehta,Director,Sales,Research & Development,Male,Asian,49,2007-12-12,199176,United States,Phoenix
+229,Carter Reed,Development Engineer,Engineering,Manufacturing,Male,Black,40,2007-12-13,74412,United States,Seattle
+230,Isla Lai,Vice President,Finance,Corporate,Female,Asian,37,2007-12-14,225558,China,Shanghai
+231,Lyla Alvarez,IT Systems Architect,IT,Research & Development,Female,Latino,55,2007-12-15,73955,United States,Phoenix
+232,Hannah Martinez,Manager,Marketing,Manufacturing,Female,Latino,65,2007-12-16,127626,United States,Miami
+233,Santiago f Moua,Sr. Manger,Human Resources,Corporate,Male,Asian,45,2007-12-17,145093,United States,Chicago
+234,Jaxon Tran,Sr. Manger,Sales,Manufacturing,Male,Asian,45,2007-12-18,151027,China,Shanghai
+235,Roman Yang,Manager,Human Resources,Manufacturing,Male,Asian,42,2007-12-19,114242,United States,Phoenix
+236,Madison Nelson,Director,Accounting,Corporate,Female,Caucasian,27,2007-12-20,161759,United States,Miami
+237,Joshua Yang,Network Engineer,IT,Manufacturing,Male,Asian,34,2007-12-21,61944,China,Shanghai
+238,Aiden Bryant,Account Representative,Sales,Manufacturing,Male,Black,47,2007-12-22,70122,United States,Columbus
+239,Gabriella Johnson,Computer Systems Manager,IT,Research & Development,Female,Caucasian,42,2007-12-23,97433,United States,Seattle
+240,Gianna Williams,Quality Engineer,Engineering,Research & Development,Female,Black,27,2007-12-24,95786,United States,Chicago
+241,Scarlett Kumar,Systems Analyst,IT,Corporate,Female,Asian,55,2007-12-25,47032,United States,Columbus
+242,Allison Leung,Sr. Analyst,Sales,Research & Development,Female,Asian,62,2007-12-26,97830,United States,Austin
+243,Kinsley Collins,Automation Engineer,Engineering,Speciality Products,Female,Caucasian,28,2007-12-27,115854,United States,Phoenix
+244,Alexander James,Sr. Manger,Human Resources,Manufacturing,Male,Caucasian,42,2007-12-28,131179,United States,Columbus
+245,Raelynn Lu,Director,Finance,Research & Development,Female,Asian,27,2007-12-29,153628,China,Chongqing
+246,Ella Jenkins,Analyst II,Finance,Speciality Products,Female,Caucasian,52,2007-12-30,61026,United States,Phoenix
+247,Samantha Adams,Test Engineer,Engineering,Research & Development,Female,Caucasian,45,2007-12-31,61773,United States,Seattle
+248,Jayden Williams,Manager,Human Resources,Manufacturing,Male,Caucasian,64,2008-01-01,104668,United States,Columbus
+249,Eva Figueroa,Analyst II,Sales,Research & Development,Female,Latino,48,2008-01-02,61216,United States,Seattle
+250,Christian Fong,Manager,Sales,Research & Development,Male,Asian,49,2008-01-03,109850,China,Beijing
+251,Samantha Foster,Vice President,Human Resources,Research & Development,Female,Black,34,2008-01-04,220937,United States,Austin
+252,Jack Cheng,Director,Human Resources,Manufacturing,Male,Asian,42,2008-01-05,152214,China,Beijing
+253,Eloise Griffin,Director,Sales,Manufacturing,Female,Caucasian,55,2008-01-06,153271,United States,Austin
+254,Hadley Guerrero,Sr. Manger,IT,Research & Development,Female,Latino,49,2008-01-07,125086,Brazil,Sao Paulo
+255,Emery Doan,Controls Engineer,Engineering,Corporate,Female,Asian,25,2008-01-08,86464,China,Shanghai
+256,Penelope Guerrero,Vice President,IT,Speciality Products,Female,Latino,43,2008-01-09,208415,United States,Seattle
+257,Samuel Bailey,Vice President,Accounting,Speciality Products,Male,Caucasian,41,2008-01-10,235619,United States,Seattle
+258,Gabriel Brooks,Network Engineer,IT,Manufacturing,Male,Caucasian,29,2008-01-11,84596,United States,Miami
+259,Connor Simmons,Analyst II,Accounting,Speciality Products,Male,Caucasian,55,2008-01-12,52310,United States,Miami
+260,Miles Mehta,Manager,Finance,Manufacturing,Male,Asian,50,2008-01-13,106437,China,Chongqing
+261,Adam Espinoza,Test Engineer,Engineering,Manufacturing,Male,Latino,36,2008-01-14,60055,United States,Seattle
+262,Hazel Alvarez,Business Partner,Human Resources,Research & Development,Female,Latino,62,2008-01-15,45295,Brazil,Sao Paulo
+263,Charlotte Wu,Sr. Business Partner,Human Resources,Manufacturing,Female,Asian,63,2008-01-16,72805,China,Shanghai
+264,Luke Munoz,Director,Engineering,Speciality Products,Male,Latino,64,2008-01-17,169509,Brazil,Manaus
+265,Isaac Mitchell,Network Architect,IT,Speciality Products,Male,Black,46,2008-01-18,67374,United States,Austin
+266,Mateo Mendez,Development Engineer,Engineering,Research & Development,Male,Latino,47,2008-01-19,99091,United States,Austin
+267,Liam Sanders,Sr. Business Partner,Human Resources,Corporate,Male,Caucasian,46,2008-01-20,75579,United States,Seattle
+268,Thomas Aguilar,Sr. Account Representative,Sales,Speciality Products,Male,Latino,45,2008-01-21,79882,United States,Phoenix
+269,Sadie Lee,Sr. Manger,Marketing,Corporate,Female,Asian,65,2008-01-22,149417,China,Chengdu
+270,Everleigh Jiang,Director,Accounting,Research & Development,Female,Asian,58,2008-01-23,173071,United States,Columbus
+271,Andrew Coleman,Director,Finance,Corporate,Male,Caucasian,41,2008-01-24,174415,United States,Miami
+272,Jaxson Coleman,Manager,Finance,Manufacturing,Male,Caucasian,32,2008-01-25,126671,United States,Miami
+273,Jeremiah Hernandez,Network Engineer,IT,Manufacturing,Male,Latino,26,2008-01-26,74467,United States,Columbus
+274,Aiden Gonzales,Vice President,Marketing,Speciality Products,Male,Latino,44,2008-01-27,186033,Brazil,Sao Paulo
+275,Natalie Carter,Director,Finance,Corporate,Female,Caucasian,64,2008-01-28,153253,United States,Austin
+276,Leo Owens,Systems Analyst,IT,Corporate,Male,Caucasian,47,2008-01-29,50069,United States,Seattle
+277,Paisley Hunter,Engineering Manager,Engineering,Research & Development,Female,Caucasian,61,2008-01-30,98110,United States,Chicago
+278,Emma Hill,IT Coordinator,IT,Manufacturing,Female,Caucasian,54,2008-01-31,41673,United States,Miami
+279,Ayla Daniels,Technical Architect,IT,Corporate,Female,Caucasian,53,2008-02-01,78153,United States,Miami
+280,William Walker,Computer Systems Manager,IT,Research & Development,Male,Black,40,2008-02-02,95899,United States,Columbus
+281,Dominic Le,Vice President,Marketing,Corporate,Male,Asian,41,2008-02-03,257194,China,Chongqing
+282,Grayson Luu,Quality Engineer,Engineering,Research & Development,Male,Asian,55,2008-02-04,89419,China,Shanghai
+283,Genesis Xiong,System Administrator ,IT,Research & Development,Female,Asian,51,2008-02-05,64170,United States,Columbus
+284,Cora Zheng,Director,IT,Manufacturing,Female,Asian,27,2008-02-06,167100,China,Chengdu
+285,Cooper Gupta,Business Partner,Human Resources,Speciality Products,Male,Asian,58,2008-02-07,41728,China,Chongqing
+286,Ivy Soto,Field Engineer,Engineering,Research & Development,Female,Latino,50,2008-02-08,91763,United States,Austin
+287,Jack Vu,Analyst II,Accounting,Research & Development,Male,Asian,43,2008-02-09,58875,China,Chengdu
+288,Xavier Park,Vice President,IT,Research & Development,Male,Asian,40,2008-02-10,234469,China,Chengdu
+289,Ellie Guerrero,Sr. Manger,Human Resources,Corporate,Female,Latino,29,2008-02-11,141555,Brazil,Manaus
+290,Jose Molina,Controls Engineer,Engineering,Manufacturing,Male,Latino,40,2008-02-12,113987,Brazil,Manaus
+291,Eva Jenkins,Sr. Manger,Human Resources,Manufacturing,Female,Black,55,2008-02-13,142318,United States,Chicago
+292,Caroline Nelson,Sr. Account Representative,Sales,Speciality Products,Female,Black,60,2008-02-14,71677,United States,Columbus
+293,Henry Green,Sr. Account Representative,Sales,Speciality Products,Male,Caucasian,32,2008-02-15,96598,United States,Phoenix
+294,Hudson Thompson,Analyst II,Accounting,Manufacturing,Male,Black,30,2008-02-16,67753,United States,Phoenix
+295,Leah Pena,Enterprise Architect,IT,Corporate,Female,Latino,57,2008-02-17,82872,Brazil,Manaus
+296,Lydia Espinoza,Sr. Manger,Marketing,Speciality Products,Female,Latino,29,2008-02-18,137106,Brazil,Sao Paulo
+297,James Castillo,Vice President,IT,Manufacturing,Male,Latino,51,2008-02-19,247874,Brazil,Manaus
+298,Anthony Rogers,Vice President,Engineering,Corporate,Male,Caucasian,33,2008-02-20,205314,United States,Columbus
+299,Mia Cheng,Sr. Manger,Sales,Manufacturing,Female,Asian,34,2008-02-21,154941,United States,Phoenix
+300,Dylan Wilson,Network Administrator,IT,Research & Development,Male,Caucasian,48,2008-02-22,76505,United States,Seattle
+301,Peyton Garza,Systems Analyst,IT,Manufacturing,Female,Latino,53,2008-02-23,44735,Brazil,Manaus
+302,Hannah White,Sr. Manger,Accounting,Corporate,Female,Caucasian,62,2008-02-24,150555,United States,Phoenix
+303,Connor Vang,Analyst,Sales,Speciality Products,Male,Asian,25,2008-02-25,46845,United States,Miami
+304,Serenity Bailey,IT Systems Architect,IT,Manufacturing,Female,Caucasian,55,2008-02-26,81218,United States,Chicago
+305,Anna Zhu,Service Desk Analyst,IT,Manufacturing,Female,Asian,48,2008-02-27,82017,China,Beijing
+306,Mason Cho,Vice President,Accounting,Research & Development,Male,Asian,59,2008-02-28,192213,United States,Chicago
+307,Penelope Griffin,Director,Sales,Manufacturing,Female,Caucasian,61,2008-02-29,151783,United States,Seattle
+308,Stella Lai,Sr. Analyst,Accounting,Manufacturing,Female,Asian,44,2008-03-01,98520,United States,Miami
+309,Ava Ortiz,Enterprise Architect,IT,Manufacturing,Female,Latino,53,2008-03-02,65702,United States,Columbus
+310,Elias Zhang,Solutions Architect,IT,Research & Development,Male,Asian,54,2008-03-03,83639,China,Beijing
+311,Jade Rojas,Director,Finance,Speciality Products,Female,Latino,37,2008-03-04,165927,United States,Phoenix
+312,Liam Jordan,Computer Systems Manager,IT,Manufacturing,Male,Caucasian,28,2008-03-05,73255,United States,Phoenix
+313,Hudson Liu,Engineering Manager,Engineering,Speciality Products,Male,Asian,34,2008-03-06,110054,United States,Miami
+314,Penelope Rodriguez,Engineering Manager,Engineering,Manufacturing,Female,Latino,49,2008-03-07,100810,Brazil,Rio de Janerio
+315,Willow Mai,Business Partner,Human Resources,Manufacturing,Female,Asian,45,2008-03-08,48345,China,Chengdu
+316,Anthony Marquez,Vice President,IT,Speciality Products,Male,Latino,54,2008-03-09,241083,United States,Columbus
+317,Ian Miller,Computer Systems Manager,IT,Corporate,Male,Black,31,2008-03-10,63744,United States,Austin
+318,Jose Ross,Engineering Manager,Engineering,Research & Development,Male,Caucasian,53,2008-03-11,116878,United States,Miami
+319,Charlotte Ruiz,Computer Systems Manager,IT,Manufacturing,Female,Latino,32,2008-03-12,61886,Brazil,Rio de Janerio
+320,Avery Bailey,Sr. Analyst,Sales,Speciality Products,Female,Caucasian,49,2008-03-13,86658,United States,Phoenix
+321,Miles Salazar,IT Coordinator,IT,Manufacturing,Male,Latino,36,2008-03-14,53215,Brazil,Sao Paulo
+322,Maria Hong,Vice President,Finance,Speciality Products,Female,Asian,43,2008-03-15,249686,China,Chongqing
+323,Ruby Barnes,Manager,IT,Corporate,Female,Caucasian,27,2008-03-16,119746,United States,Phoenix
+324,Anthony Hong,Sr. Manger,IT,Research & Development,Male,Asian,37,2008-03-17,146961,United States,Columbus
+325,Elijah Coleman,Sr. Manger,Sales,Research & Development,Male,Caucasian,53,2008-03-18,159538,United States,Miami
+326,Henry Zhu,Vice President,Marketing,Speciality Products,Male,Asian,38,2008-03-19,255230,United States,Austin
+327,Carter Mejia,Sr. Manger,Human Resources,Research & Development,Male,Latino,29,2008-03-20,125828,Brazil,Sao Paulo
+328,Paisley Trinh,Technical Architect,IT,Corporate,Female,Asian,57,2008-03-21,76202,United States,Austin
+329,Gabriella Zhu,Computer Systems Manager,IT,Speciality Products,Female,Asian,36,2008-03-22,88730,China,Chongqing
+330,Jackson Perry,Vice President,Marketing,Research & Development,Male,Caucasian,27,2008-03-23,256420,United States,Phoenix
+331,Leilani Yee,Sr. Analyst,Marketing,Speciality Products,Female,Asian,47,2008-03-24,70996,China,Chengdu
+332,Addison Do,Operations Engineer,Engineering,Manufacturing,Female,Asian,46,2008-03-25,90678,United States,Columbus
+333,Naomi Coleman,Manager,Marketing,Corporate,Female,Caucasian,29,2008-03-26,122054,United States,Phoenix
+334,Elizabeth Huang,Analyst,Finance,Speciality Products,Female,Asian,62,2008-03-27,49738,China,Beijing
+335,Maria He,IT Systems Architect,IT,Corporate,Female,Asian,45,2008-03-28,82162,China,Beijing
+336,Austin Vo,Sr. Analyst,Finance,Manufacturing,Male,Asian,55,2008-03-29,95409,United States,Phoenix
+337,Everleigh Simmons,Analyst,Finance,Manufacturing,Female,Caucasian,55,2008-03-30,48266,United States,Chicago
+338,Mia Lam,Sr. Manger,IT,Manufacturing,Female,Asian,49,2008-03-31,134486,United States,Austin
+339,Eva Alvarado,Computer Systems Manager,IT,Manufacturing,Female,Latino,46,2008-04-01,77461,Brazil,Sao Paulo
+340,Avery Dominguez,Sr. Manger,Sales,Corporate,Female,Latino,27,2008-04-02,133297,Brazil,Rio de Janerio
+341,Naomi Xi,Director,Finance,Corporate,Female,Asian,53,2008-04-03,179494,China,Chongqing
+342,Jaxson Liang,Field Engineer,Engineering,Manufacturing,Male,Asian,64,2008-04-04,67114,United States,Phoenix
+343,Luke Mai,HRIS Analyst,Human Resources,Research & Development,Male,Asian,41,2008-04-05,51630,China,Beijing
+344,Avery Sun,Operations Engineer,Engineering,Manufacturing,Female,Asian,45,2008-04-06,109422,China,Chongqing
+345,Benjamin Ford,Analyst II,Finance,Speciality Products,Male,Caucasian,31,2008-04-07,74215,United States,Phoenix
+346,James Singh,Director,Marketing,Corporate,Male,Asian,45,2008-04-08,186138,China,Chongqing
+347,Nolan Guzman,Field Engineer,Engineering,Speciality Products,Male,Latino,46,2008-04-09,96997,Brazil,Sao Paulo
+348,Savannah Park,HRIS Analyst,Human Resources,Manufacturing,Female,Asian,44,2008-04-10,53301,United States,Seattle
+349,Asher Huynh,Manager,IT,Manufacturing,Male,Asian,45,2008-04-11,101288,United States,Phoenix
+350,Nolan Molina,Computer Systems Manager,IT,Corporate,Male,Latino,36,2008-04-12,70165,Brazil,Manaus
+351,Eloise Pham,Manager,Sales,Speciality Products,Female,Asian,45,2008-04-13,123640,China,Shanghai
+352,Nathan Lee,Analyst,Accounting,Manufacturing,Male,Asian,29,2008-04-14,58703,United States,Columbus
+353,Connor Fong,Manager,Accounting,Speciality Products,Male,Asian,40,2008-04-15,120905,United States,Seattle
+354,Owen Lam,Sr. Business Partner,Human Resources,Speciality Products,Male,Asian,30,2008-04-16,86317,China,Chengdu
+355,Audrey Patel,Sr. Manger,Finance,Speciality Products,Female,Asian,37,2008-04-17,131183,China,Shanghai
+356,Madeline Acosta,Sr. Account Representative,Sales,Speciality Products,Female,Latino,26,2008-04-18,87427,Brazil,Sao Paulo
+357,Maya Ngo,Manager,Sales,Speciality Products,Female,Asian,55,2008-04-19,108686,United States,Columbus
+358,Lillian Romero,Director,Engineering,Corporate,Female,Latino,27,2008-04-20,170164,United States,Austin
+359,Charles Luu,Sr. Manger,Sales,Manufacturing,Male,Asian,25,2008-04-21,142731,China,Shanghai
+360,Piper Lewis,Field Engineer,Engineering,Research & Development,Female,Caucasian,33,2008-04-22,83990,United States,Chicago
+361,Matthew Lim,Sr. Analyst,Sales,Research & Development,Male,Asian,52,2008-04-23,99624,United States,Seattle
+362,Cameron Evans,Test Engineer,Engineering,Corporate,Male,Caucasian,50,2008-04-24,63098,United States,Columbus
+363,Nathan Miller,Quality Engineer,Engineering,Speciality Products,Male,Black,27,2008-04-25,70110,United States,Miami
+364,Ezra Singh,Analyst,Finance,Manufacturing,Male,Asian,56,2008-04-26,41561,United States,Austin
+365,Chloe Allen,Solutions Architect,IT,Manufacturing,Female,Caucasian,64,2008-04-27,77903,United States,Seattle
+366,Stella Alexander,Automation Engineer,Engineering,Corporate,Female,Caucasian,52,2008-04-28,102043,United States,Chicago
+367,Jayden Kang,Analyst,Finance,Research & Development,Male,Asian,46,2008-04-29,55894,United States,Seattle
+368,Leo Fernandez,Manager,Finance,Research & Development,Male,Latino,54,2008-04-30,108268,Brazil,Sao Paulo
+369,Zoey Jackson,Business Partner,Human Resources,Manufacturing,Female,Black,46,2008-05-01,59067,United States,Miami
+370,Jack Edwards,Manager,Marketing,Manufacturing,Male,Caucasian,38,2008-05-02,126856,United States,Columbus
+371,Carson Chau,Director,Finance,Corporate,Male,Asian,58,2008-05-03,162038,China,Chongqing
+372,Easton Moore,Computer Systems Manager,IT,Research & Development,Male,Caucasian,52,2008-05-04,99557,United States,Seattle
+373,Abigail Garza,Analyst,Accounting,Manufacturing,Female,Latino,33,2008-05-05,45049,United States,Seattle
+374,Olivia Gray,Manager,Marketing,Research & Development,Female,Black,42,2008-05-06,103423,United States,Columbus
+375,Isla Guzman,Sr. Manger,Accounting,Speciality Products,Female,Latino,28,2008-05-07,152036,Brazil,Rio de Janerio
+376,Peyton Walker,Analyst,Marketing,Research & Development,Female,Caucasian,43,2008-05-08,41545,United States,Miami
+377,Gabriel Zhou,IT Coordinator,IT,Manufacturing,Male,Asian,25,2008-05-09,41844,China,Chongqing
+378,Adam Nelson,Director,Finance,Speciality Products,Male,Caucasian,25,2008-05-10,168014,United States,Chicago
+379,Oliver Moua,IT Systems Architect,IT,Corporate,Male,Asian,29,2008-05-11,71234,United States,Seattle
+380,Xavier Jackson,Vice President,Marketing,Speciality Products,Male,Caucasian,52,2008-05-12,236314,United States,Miami
+381,Eleanor Li,Sr. Manger,Human Resources,Research & Development,Female,Asian,64,2008-05-13,125807,United States,Chicago
+382,Lillian Khan,Analyst,Finance,Speciality Products,Female,Asian,44,2008-05-14,47387,China,Chengdu
+383,Sarah Daniels,Sr. Manger,Accounting,Manufacturing,Female,Caucasian,55,2008-05-15,138521,United States,Miami
+384,Anna Gutierrez,Director,Engineering,Research & Development,Female,Latino,59,2008-05-16,150699,Brazil,Sao Paulo
+385,Charles Moore,Technical Architect,IT,Manufacturing,Male,Black,34,2008-05-17,63411,United States,Miami
+386,Quinn Trinh,Analyst II,Sales,Corporate,Female,Asian,42,2008-05-18,67743,China,Beijing
+387,Vivian Espinoza,Sr. Manger,Sales,Corporate,Female,Latino,52,2008-05-19,147966,Brazil,Rio de Janerio
+388,Sophie Owens,Analyst II,Finance,Research & Development,Female,Caucasian,30,2008-05-20,52697,United States,Seattle
+389,Everett Lee,Network Administrator,IT,Research & Development,Male,Asian,45,2008-05-21,90770,United States,Columbus
+390,Angel Lin,Network Administrator,IT,Manufacturing,Male,Asian,27,2008-05-22,92321,United States,Chicago
+391,Thomas Williams,Field Engineer,Engineering,Speciality Products,Male,Caucasian,45,2008-05-23,87292,United States,Columbus
+392,John Dang,Director,Sales,Corporate,Male,Asian,58,2008-05-24,199848,China,Chongqing
+393,Vivian Barnes,Director,Human Resources,Research & Development,Female,Caucasian,51,2008-05-25,180687,United States,Phoenix
+394,Raelynn Gupta,Sr. Manger,Finance,Corporate,Female,Asian,48,2008-05-26,125730,China,Chongqing
+395,Genesis Banks,Analyst,Finance,Corporate,Female,Caucasian,63,2008-05-27,46081,United States,Chicago
+396,Eliana Turner,Account Representative,Sales,Research & Development,Female,Black,65,2008-05-28,67837,United States,Austin
+397,Wesley Sharma,Manager,IT,Corporate,Male,Asian,51,2008-05-29,122802,China,Shanghai
+398,Angel Powell,Analyst II,Sales,Research & Development,Male,Caucasian,61,2008-05-30,66521,United States,Seattle
+399,Jonathan Ho,Vice President,IT,Manufacturing,Male,Asian,37,2008-05-31,221592,United States,Columbus
+400,Isabella Bui,Enterprise Architect,IT,Manufacturing,Female,Asian,36,2008-06-01,97500,United States,Miami
+401,Anna Han,System Administrator ,IT,Research & Development,Female,Asian,65,2008-06-02,96548,United States,Austin
+402,Connor Joseph,Director,Human Resources,Corporate,Male,Caucasian,50,2008-06-03,174895,United States,Chicago
+403,Maverick Mehta,Systems Analyst,IT,Manufacturing,Male,Asian,40,2008-06-04,41859,United States,Seattle
+404,Amelia Bell,Sr. Analyst,Sales,Manufacturing,Female,Caucasian,53,2008-06-05,89769,United States,Seattle
+405,Addison Perez,Operations Engineer,Engineering,Speciality Products,Female,Latino,29,2008-06-06,123588,Brazil,Sao Paulo
+406,Melody Cooper,Development Engineer,Engineering,Research & Development,Female,Caucasian,44,2008-06-07,89695,United States,Austin
+407,Grace Sun,Director,Finance,Research & Development,Female,Asian,25,2008-06-08,186870,China,Shanghai
+408,Eli Rahman,Service Desk Analyst,IT,Manufacturing,Male,Asian,45,2008-06-09,88182,China,Chengdu
+409,Ellie Chung,Sr. Manger,Marketing,Corporate,Female,Asian,59,2008-06-10,157969,China,Chongqing
+410,Caroline Alexander,Business Partner,Human Resources,Manufacturing,Female,Black,42,2008-06-11,47071,United States,Columbus
+411,Xavier Perez,Sr. Analyst,Sales,Manufacturing,Male,Latino,51,2008-06-12,71111,Brazil,Rio de Janerio
+412,Roman Munoz,Sr. Manger,Sales,Speciality Products,Male,Latino,54,2008-06-13,122644,United States,Austin
+413,Nora Santiago,Analyst,Accounting,Research & Development,Female,Latino,55,2008-06-14,48687,Brazil,Rio de Janerio
+414,Ian Gutierrez,Sr. Business Partner,Human Resources,Research & Development,Male,Latino,32,2008-06-15,70980,Brazil,Rio de Janerio
+415,Grayson Yee,Manager,Human Resources,Corporate,Male,Asian,48,2008-06-16,110565,China,Beijing
+416,Mateo Her,Vice President,Sales,Speciality Products,Male,Asian,44,2008-06-17,207172,China,Chongqing
+417,Charles Robinson,HRIS Analyst,Human Resources,Speciality Products,Male,Caucasian,26,2008-06-18,70369,United States,Seattle
+418,Nora Brown,Enterprise Architect,IT,Manufacturing,Female,Caucasian,32,2008-06-19,99575,United States,Austin
+419,Skylar Ayala,Sr. Manger,Finance,Corporate,Female,Latino,55,2008-06-20,144986,United States,Phoenix
+420,Matthew Gupta,Network Engineer,IT,Speciality Products,Male,Asian,45,2008-06-21,67686,China,Beijing
+421,Andrew Ma,HRIS Analyst,Human Resources,Corporate,Male,Asian,31,2008-06-22,71755,China,Chongqing
+422,Madeline Coleman,Sr. Manger,Finance,Research & Development,Female,Caucasian,51,2008-06-23,150758,United States,Chicago
+423,Christian Sanders,Vice President,Human Resources,Speciality Products,Male,Black,45,2008-06-24,236946,United States,Seattle
+424,Levi Brown,Sr. Analyst,Sales,Corporate,Male,Black,36,2008-06-25,75119,United States,Chicago
+425,John Delgado,Cloud Infrastructure Architect,IT,Corporate,Male,Latino,30,2008-06-26,92058,United States,Austin
+426,Rylee Yu,Director,Accounting,Research & Development,Female,Asian,36,2008-06-27,178700,United States,Seattle
+427,Naomi Zhao,Vice President,Human Resources,Speciality Products,Female,Asian,45,2008-06-28,201396,United States,Miami
+428,Allison Medina,Manager,Finance,Speciality Products,Female,Latino,55,2008-06-29,111038,Brazil,Sao Paulo
+429,Christopher Vega,Engineering Manager,Engineering,Research & Development,Male,Latino,54,2008-06-30,106313,United States,Chicago
+430,Peyton Vasquez,Analyst,Accounting,Corporate,Female,Latino,26,2008-07-01,55767,United States,Phoenix
+431,John Soto,Sr. Manger,Finance,Manufacturing,Male,Latino,60,2008-07-02,141899,United States,Phoenix
+432,Lucas Thomas,Manager,Accounting,Research & Development,Male,Caucasian,55,2008-07-03,115798,United States,Miami
+433,Peyton Owens,Controls Engineer,Engineering,Speciality Products,Female,Caucasian,48,2008-07-04,96693,United States,Chicago
+434,Sarah Ayala,Analyst,Sales,Corporate,Female,Latino,47,2008-07-05,41429,United States,Seattle
+435,Aubrey Yoon,Sr. Business Partner,Human Resources,Research & Development,Female,Asian,60,2008-07-06,78388,China,Chongqing
+436,Wyatt Rojas,Computer Systems Manager,IT,Corporate,Male,Latino,32,2008-07-07,79921,United States,Austin
+437,Isla Chavez,Account Representative,Sales,Research & Development,Female,Latino,29,2008-07-08,65334,Brazil,Rio de Janerio
+438,Gabriel Carter,Test Engineer,Engineering,Manufacturing,Male,Caucasian,57,2008-07-09,71167,United States,Columbus
+439,Maria Sun,Director,Sales,Corporate,Female,Asian,25,2008-07-10,150666,China,Chengdu
+440,Lucy Avila,Solutions Architect,IT,Speciality Products,Female,Latino,43,2008-07-11,76912,Brazil,Sao Paulo
+441,Josephine Acosta,Director,Human Resources,Speciality Products,Female,Latino,40,2008-07-12,198176,Brazil,Manaus
+442,Emilia Bailey,Vice President,Accounting,Speciality Products,Female,Caucasian,41,2008-07-13,245360,United States,Austin
+443,Jose Henderson,Director,Human Resources,Speciality Products,Male,Black,41,2008-07-14,152239,United States,Columbus
+444,Caleb Marquez,IT Systems Architect,IT,Research & Development,Male,Latino,29,2008-07-15,66819,Brazil,Rio de Janerio
+445,William Phillips,Network Architect,IT,Corporate,Male,Black,61,2008-07-16,88478,United States,Austin
+446,Julian Delgado,Systems Analyst,IT,Speciality Products,Male,Latino,29,2008-07-17,52693,Brazil,Rio de Janerio
+447,Sofia Parker,Cloud Infrastructure Architect,IT,Manufacturing,Female,Caucasian,36,2008-07-18,99080,United States,Chicago
+448,Riley Ramirez,Sr. Business Partner,Human Resources,Research & Development,Female,Latino,52,2008-07-19,92994,United States,Chicago
+449,Allison Daniels,Manager,Finance,Manufacturing,Female,Caucasian,37,2008-07-20,103524,United States,Phoenix
+450,Lillian Park,Analyst,Marketing,Research & Development,Female,Asian,40,2008-07-21,46833,China,Chengdu
+451,Jaxson Sandoval,Sr. Analyst,Sales,Speciality Products,Male,Latino,61,2008-07-22,90855,Brazil,Sao Paulo
+452,Eliza Chen,Enterprise Architect,IT,Research & Development,Female,Asian,36,2008-07-23,75862,United States,Austin
+453,Emily Lau,Sr. Analyst,Finance,Manufacturing,Female,Asian,35,2008-07-24,74779,United States,Phoenix
+454,Isabella Bailey,Network Administrator,IT,Manufacturing,Female,Caucasian,36,2008-07-25,61310,United States,Phoenix
+455,Hazel Griffin,Field Engineer,Engineering,Corporate,Female,Caucasian,32,2008-07-26,65247,United States,Phoenix
+456,Jaxon Park,Network Architect,IT,Manufacturing,Male,Asian,33,2008-07-27,69453,China,Chengdu
+457,Josephine Salazar,Field Engineer,Engineering,Speciality Products,Female,Latino,36,2008-07-28,85870,Brazil,Sao Paulo
+458,Aria Xi,Director,Sales,Research & Development,Female,Asian,45,2008-07-29,165181,United States,Seattle
+459,Axel Jordan,Analyst,Sales,Corporate,Male,Caucasian,47,2008-07-30,54635,United States,Chicago
+460,Emily Doan,Engineering Manager,Engineering,Corporate,Female,Asian,32,2008-07-31,99202,United States,Phoenix
+461,Skylar Evans,Director,Accounting,Research & Development,Female,Caucasian,42,2008-08-01,174099,United States,Austin
+462,Jordan Phillips,Vice President,Human Resources,Corporate,Male,Black,45,2008-08-02,190512,United States,Columbus
+463,Jeremiah Lu,Network Architect,IT,Manufacturing,Male,Asian,50,2008-08-03,73907,China,Shanghai
+464,Sophia Huynh,Enterprise Architect,IT,Manufacturing,Female,Asian,55,2008-08-04,92771,United States,Miami
+465,Jaxson Wright,Service Desk Analyst,IT,Manufacturing,Male,Black,54,2008-08-05,64417,United States,Columbus
+466,Emma Cao,Analyst,Accounting,Corporate,Female,Asian,27,2008-08-06,50809,China,Chongqing
+467,Eliza Liang,Sr. Manger,Human Resources,Speciality Products,Female,Asian,36,2008-08-07,134006,China,Beijing
+468,Lincoln Huynh,Sr. Manger,Finance,Manufacturing,Male,Asian,63,2008-08-08,128703,United States,Austin
+469,Audrey Smith,Field Engineer,Engineering,Research & Development,Female,Caucasian,58,2008-08-09,70189,United States,Columbus
+470,Emily Davis,Sr. Manger,IT,Research & Development,Female,Black,55,2008-08-10,141604,United States,Seattle
+471,Piper Ramos,Sr. Manger,Sales,Manufacturing,Female,Latino,49,2008-08-11,157057,United States,Miami
+472,Natalia Santos,Vice President,Human Resources,Speciality Products,Female,Latino,45,2008-08-12,249801,Brazil,Sao Paulo
+473,Penelope Gonzalez,Sr. Analyst,Sales,Corporate,Female,Latino,52,2008-08-13,93103,United States,Phoenix
+474,Alice Young,Automation Engineer,Engineering,Research & Development,Female,Caucasian,46,2008-08-14,91621,United States,Chicago
+475,Madison Li,Director,Marketing,Manufacturing,Female,Asian,35,2008-08-15,171426,China,Beijing
+476,Jordan Truong,Director,Engineering,Speciality Products,Male,Asian,45,2008-08-16,183161,United States,Miami
+477,Addison Mehta,Manager,Sales,Corporate,Female,Asian,27,2008-08-17,127616,United States,Columbus
+478,Connor Luu,Computer Systems Manager,IT,Speciality Products,Male,Asian,35,2008-08-18,73899,China,Chengdu
+479,Grayson Turner,Solutions Architect,IT,Corporate,Male,Caucasian,54,2008-08-19,63196,United States,Chicago
+480,Dylan Kumar,Sr. Analyst,Marketing,Speciality Products,Male,Asian,55,2008-08-20,93343,China,Chongqing
+481,Sophie Silva,Vice President,Engineering,Corporate,Female,Latino,28,2008-08-21,240488,Brazil,Rio de Janerio
+482,Ella Huang,Vice President,Marketing,Corporate,Female,Asian,45,2008-08-22,211637,United States,Chicago
+483,Leonardo Lo,Quality Engineer,Engineering,Speciality Products,Male,Asian,29,2008-08-23,91782,China,Chongqing
+484,Amelia Bui,Director,Engineering,Speciality Products,Female,Asian,46,2008-08-24,151853,China,Chengdu
+485,Alexander Morris,Manager,Sales,Speciality Products,Male,Caucasian,33,2008-08-25,119631,United States,Phoenix
+486,Ethan Clark,Sr. Business Partner,Human Resources,Manufacturing,Male,Caucasian,33,2008-08-26,92610,United States,Columbus
+487,Parker Sandoval,Manager,Human Resources,Speciality Products,Male,Latino,59,2008-08-27,101985,United States,Miami
+488,Sebastian Gupta,Sr. Analyst,Marketing,Corporate,Male,Asian,40,2008-08-28,73779,China,Chongqing
+489,Lily Nguyen,Sr. Analyst,Finance,Speciality Products,Female,Asian,33,2008-08-29,95960,China,Chengdu
+490,Silas Rivera,Vice President,Sales,Corporate,Male,Latino,48,2008-08-30,258081,United States,Chicago
+491,Jameson Foster,Analyst,Marketing,Manufacturing,Male,Caucasian,28,2008-08-31,43391,United States,Columbus
+492,Victoria Johnson,Sr. Manger,Accounting,Corporate,Female,Caucasian,55,2008-09-01,159885,United States,Columbus
+493,Leah Khan,Director,Marketing,Corporate,Female,Asian,36,2008-09-02,157070,China,Chongqing
+494,Caroline Perez,Controls Engineer,Engineering,Corporate,Female,Latino,29,2008-09-03,80516,Brazil,Sao Paulo
+495,Joshua Ramirez,Vice President,Human Resources,Corporate,Male,Latino,44,2008-09-04,181247,Brazil,Sao Paulo
+496,Landon Lopez,Sr. Analyst,Accounting,Manufacturing,Male,Latino,38,2008-09-05,78056,Brazil,Sao Paulo
+497,Jose Richardson,Director,Marketing,Research & Development,Male,Caucasian,26,2008-09-06,151556,United States,Miami
+498,Samantha Vargas,Director,Human Resources,Corporate,Female,Latino,53,2008-09-07,151246,Brazil,Sao Paulo
+499,Christian Medina,Analyst,Marketing,Corporate,Male,Latino,51,2008-09-08,45206,United States,Columbus
+500,Clara Sanchez,Controls Engineer,Engineering,Corporate,Female,Latino,47,2008-09-09,111404,Brazil,Rio de Janerio
+501,Emily Clark,Vice President,Accounting,Corporate,Female,Caucasian,36,2008-09-10,253294,United States,Miami
+502,Luna Sanders,Director,Finance,Speciality Products,Female,Caucasian,50,2008-09-11,163099,United States,Chicago
+503,Gianna Ha,Manager,IT,Research & Development,Female,Asian,55,2008-09-12,115145,China,Chongqing
+504,Ezekiel Kumar,IT Coordinator,IT,Research & Development,Male,Asian,28,2008-09-13,54775,United States,Columbus
+505,Daniel Huang,Vice President,Human Resources,Corporate,Male,Asian,31,2008-09-14,250953,United States,Columbus
+506,Brooklyn Collins,Sr. Manger,Finance,Corporate,Female,Black,59,2008-09-15,139208,United States,Austin
+507,John Jung,Sr. Analyst,Sales,Speciality Products,Male,Asian,63,2008-09-16,73200,China,Shanghai
+508,Everly Lai,Vice President,Marketing,Speciality Products,Female,Asian,52,2008-09-17,182035,United States,Chicago
+509,Parker Avila,Analyst II,Marketing,Manufacturing,Male,Latino,47,2008-09-18,62749,Brazil,Manaus
+510,Nora Nelson,Analyst II,Finance,Manufacturing,Female,Caucasian,41,2008-09-19,50685,United States,Columbus
+511,Alice Soto,Analyst,Accounting,Corporate,Female,Latino,56,2008-09-20,50857,Brazil,Manaus
+512,Allison Roberts,Vice President,Sales,Manufacturing,Female,Black,54,2008-09-21,222224,United States,Columbus
+513,Sebastian Le,Analyst,Finance,Corporate,Male,Asian,37,2008-09-22,45369,China,Beijing
+514,Hadley Parker,Vice President,Marketing,Corporate,Female,Black,30,2008-09-23,221217,United States,Columbus
+515,Sebastian Rogers,HRIS Analyst,Human Resources,Research & Development,Male,Caucasian,38,2008-09-24,69647,United States,Miami
+516,Charles Gonzalez,Quality Engineer,Engineering,Research & Development,Male,Latino,27,2008-09-25,64247,Brazil,Rio de Janerio
+517,Nathan Sun,Manager,Accounting,Speciality Products,Male,Asian,63,2008-09-26,103724,China,Shanghai
+518,Maya Chan,Controls Engineer,Engineering,Speciality Products,Female,Asian,37,2008-09-27,124827,China,Beijing
+519,Bella Butler,Sr. Manger,Finance,Manufacturing,Female,Black,33,2008-09-28,131652,United States,Seattle
+520,Nicholas Rivera,Director,Engineering,Corporate,Male,Latino,45,2008-09-29,189680,Brazil,Sao Paulo
+521,Caroline Owens,Director,IT,Speciality Products,Female,Caucasian,26,2008-09-30,151108,United States,Phoenix
+522,Aaron Maldonado,Analyst II,Finance,Manufacturing,Male,Latino,39,2008-10-01,62861,United States,Seattle
+523,Caroline Nelson,Vice President,Finance,Corporate,Female,Caucasian,36,2008-10-02,202323,United States,Chicago
+524,Grace Campos,Director,Engineering,Research & Development,Female,Latino,37,2008-10-03,156277,Brazil,Manaus
+525,Ryan Lu,Development Engineer,Engineering,Speciality Products,Male,Asian,25,2008-10-04,67275,United States,Columbus
+526,Austin Vang,Manager,Marketing,Speciality Products,Male,Asian,49,2008-10-05,119397,China,Beijing
+527,Nevaeh Kang,Automation Engineer,Engineering,Research & Development,Female,Asian,46,2008-10-06,86538,China,Chengdu
+528,Lucy Figueroa,Sr. Manger,Finance,Research & Development,Female,Latino,45,2008-10-07,149761,United States,Columbus
+529,Silas Huang,Engineering Manager,Engineering,Research & Development,Male,Asian,57,2008-10-08,111299,United States,Miami
+530,Dominic Dinh,Sr. Manger,Marketing,Speciality Products,Male,Asian,45,2008-10-09,128468,United States,Chicago
+531,Jaxon Fong,Sr. Analyst,Sales,Speciality Products,Male,Asian,59,2008-10-10,83685,China,Beijing
+532,Thomas Chang,Sr. Analyst,Accounting,Research & Development,Male,Asian,34,2008-10-11,97231,China,Beijing
+533,Axel Soto,Quality Engineer,Engineering,Corporate,Male,Latino,46,2008-10-12,96639,Brazil,Rio de Janerio
+534,Alice Tran,Analyst,Marketing,Corporate,Female,Asian,39,2008-10-13,40897,United States,Seattle
+535,Dylan Padilla,HRIS Analyst,Human Resources,Manufacturing,Male,Latino,31,2008-10-14,73854,United States,Seattle
+536,Kinsley Acosta,Vice President,IT,Speciality Products,Female,Latino,32,2008-10-15,192749,United States,Chicago
+537,Genesis Zhu,Director,Finance,Speciality Products,Female,Asian,34,2008-10-16,184960,United States,Seattle
+538,Luca Duong,Manager,Human Resources,Research & Development,Male,Asian,48,2008-10-17,120660,China,Chengdu
+539,Riley Marquez,Sr. Manger,Finance,Research & Development,Female,Latino,39,2008-10-18,122829,United States,Chicago
+540,Eliza Adams,Account Representative,Sales,Manufacturing,Female,Caucasian,26,2008-10-19,63137,United States,Chicago
+541,James Huang,Manager,Human Resources,Speciality Products,Male,Asian,54,2008-10-20,128136,China,Beijing
+542,Liliana Do,Service Desk Analyst,IT,Manufacturing,Female,Asian,30,2008-10-21,86774,China,Chengdu
+543,Athena Vu,Director,Accounting,Manufacturing,Female,Asian,63,2008-10-22,193044,United States,Miami
+544,Levi Mendez,Vice President,Sales,Research & Development,Male,Latino,39,2008-10-23,249506,Brazil,Rio de Janerio
+545,Aubrey Romero,Director,Sales,Corporate,Female,Latino,49,2008-10-24,160832,United States,Phoenix
+546,Charles Henderson,Systems Analyst,IT,Speciality Products,Male,Caucasian,48,2008-10-25,43080,United States,Austin
+547,Eva Estrada,Sr. Manger,Sales,Speciality Products,Female,Latino,45,2008-10-26,148991,Brazil,Sao Paulo
+548,Santiago f Brooks,Sr. Manger,Sales,Corporate,Male,Black,51,2008-10-27,157487,United States,Phoenix
+549,Matthew Chau,Sr. Business Partner,Human Resources,Research & Development,Male,Asian,53,2008-10-28,95998,United States,Seattle
+550,Eli Soto,Analyst,Marketing,Speciality Products,Male,Latino,38,2008-10-29,50784,Brazil,Rio de Janerio
+551,Layla Torres,Sr. Manger,Finance,Manufacturing,Female,Latino,37,2008-10-30,157474,Brazil,Rio de Janerio
+552,Kai Chow,Engineering Manager,Engineering,Corporate,Male,Asian,45,2008-10-31,95743,United States,Austin
+553,Aaron Garza,Director,Sales,Research & Development,Male,Latino,39,2008-11-01,165756,United States,Columbus
+554,Wyatt Li,Vice President,Engineering,Manufacturing,Male,Asian,63,2008-11-02,254289,United States,Chicago
+555,Penelope Jordan,Computer Systems Manager,IT,Manufacturing,Female,Caucasian,26,2008-11-03,84913,United States,Chicago
+556,Adrian Fernandez,Systems Analyst,IT,Research & Development,Male,Latino,45,2008-11-04,54994,United States,Columbus
+557,Julia Pham,Engineering Manager,Engineering,Speciality Products,Female,Asian,65,2008-11-05,83756,China,Shanghai
+558,Lily Pena,Manager,Human Resources,Speciality Products,Female,Latino,55,2008-11-06,102839,United States,Miami
+559,Charles Diaz,Sr. Manger,Sales,Corporate,Male,Latino,55,2008-11-07,124129,Brazil,Sao Paulo
+560,Julia Mai,Manager,Marketing,Manufacturing,Female,Asian,50,2008-11-08,108134,China,Shanghai
+561,Lincoln Huynh,System Administrator ,IT,Research & Development,Male,Asian,55,2008-11-09,87851,China,Chongqing
+562,Emma Brooks,Sr. Account Representative,Sales,Research & Development,Female,Caucasian,30,2008-11-10,89458,United States,Austin
+563,Evelyn Dinh,Director,Sales,Research & Development,Female,Asian,41,2008-11-11,171173,United States,Columbus
+564,Piper Cheng,Enterprise Architect,IT,Manufacturing,Female,Asian,62,2008-11-12,82839,United States,Miami
+565,Amelia Kaur,Operations Engineer,Engineering,Research & Development,Female,Asian,30,2008-11-13,77442,United States,Columbus
+566,Mason Jimenez,Sr. Manger,Finance,Speciality Products,Male,Latino,44,2008-11-14,130133,United States,Austin
+567,Valentina Davis,Analyst,Sales,Speciality Products,Female,Caucasian,33,2008-11-15,46878,United States,Miami
+568,Daniel Perry,Enterprise Architect,IT,Research & Development,Male,Caucasian,62,2008-11-16,80921,United States,Columbus
+569,Peyton Huang,Sr. Manger,IT,Manufacturing,Female,Asian,25,2008-11-17,125633,China,Beijing
+570,Liam Jung,Manager,Finance,Corporate,Male,Asian,39,2008-11-18,103504,China,Chengdu
+571,Madeline Shin,Computer Systems Manager,IT,Speciality Products,Female,Asian,48,2008-11-19,74546,United States,Seattle
+572,Mila Allen,Controls Engineer,Engineering,Corporate,Female,Caucasian,56,2008-11-20,76272,United States,Miami
+573,Leilani Sharma,Sr. Analyst,Accounting,Manufacturing,Female,Asian,43,2008-11-21,92940,China,Chengdu
+574,Axel Johnson,Director,Human Resources,Corporate,Male,Caucasian,60,2008-11-22,155788,United States,Seattle
+575,Elijah Ramos,Sr. Manger,IT,Speciality Products,Male,Latino,33,2008-11-23,132544,Brazil,Rio de Janerio
+576,Mia Herrera,Director,Marketing,Research & Development,Female,Latino,43,2008-11-24,171360,Brazil,Manaus
+577,Mila Soto,Director,Finance,Research & Development,Female,Latino,65,2008-11-25,170221,Brazil,Manaus
+578,Joshua Cortez,Sr. Manger,Finance,Corporate,Male,Latino,44,2008-11-26,126277,Brazil,Manaus
+579,Elena Richardson,Manager,Accounting,Manufacturing,Female,Caucasian,34,2008-11-27,103707,United States,Columbus
+580,Robert Vazquez,System Administrator ,IT,Corporate,Male,Latino,40,2008-11-28,87770,United States,Austin
+581,Jose Singh,Sr. Manger,Finance,Speciality Products,Male,Asian,44,2008-11-29,142878,United States,Columbus
+582,Maria Wilson,Vice President,Engineering,Research & Development,Female,Caucasian,51,2008-11-30,200246,United States,Columbus
+583,Everett Morales,Solutions Architect,IT,Speciality Products,Male,Latino,57,2008-12-01,66649,Brazil,Rio de Janerio
+584,Willow Woods,Vice President,Human Resources,Speciality Products,Female,Caucasian,28,2008-12-02,231850,United States,Miami
+585,Ethan Tang,Sr. Analyst,Accounting,Speciality Products,Male,Asian,54,2008-12-03,93668,United States,Chicago
+586,John Trinh,Director,Marketing,Corporate,Male,Asian,49,2008-12-04,153961,China,Shanghai
+587,Jace Washington,Manager,Accounting,Research & Development,Male,Caucasian,44,2008-12-05,117545,United States,Phoenix
+588,Julian Fong,Quality Engineer,Engineering,Speciality Products,Male,Asian,61,2008-12-06,80950,China,Chongqing
+589,Daniel Richardson,Director,Engineering,Speciality Products,Male,Caucasian,30,2008-12-07,184368,United States,Austin
+590,Bella Lopez,Sr. Analyst,Marketing,Corporate,Female,Latino,32,2008-12-08,88895,United States,Chicago
+591,Joshua Fong,Vice President,Engineering,Speciality Products,Male,Asian,47,2008-12-09,222941,China,Beijing
+592,Nova Hill,Sr. Analyst,Accounting,Manufacturing,Female,Caucasian,56,2008-12-10,90040,United States,Chicago
+593,Andrew Do,Sr. Manger,Finance,Research & Development,Male,Asian,43,2008-12-11,146140,United States,Seattle
+594,William Foster,Field Engineer,Engineering,Manufacturing,Male,Caucasian,58,2008-12-12,76354,United States,Phoenix
+595,Caroline Santos,Analyst II,Finance,Research & Development,Female,Latino,25,2008-12-13,56565,Brazil,Sao Paulo
+596,Mia Wu,Enterprise Architect,IT,Corporate,Female,Asian,45,2008-12-14,99169,China,Beijing
+597,Nicholas Song,Analyst II,Marketing,Manufacturing,Male,Asian,52,2008-12-15,68807,China,Chengdu
+598,Hailey Shin,Director,Human Resources,Corporate,Female,Asian,57,2008-12-16,176324,China,Shanghai
+599,Jack Mai,Sr. Analyst,Marketing,Corporate,Male,Asian,45,2008-12-17,92293,China,Chengdu
+600,Mateo Harris,Manager,IT,Corporate,Male,Caucasian,30,2008-12-18,119906,United States,Columbus
+601,Paisley Sanders,Sr. Manger,Marketing,Speciality Products,Female,Caucasian,55,2008-12-19,157812,United States,Miami
+602,Hailey Hong,Account Representative,Sales,Research & Development,Female,Asian,33,2008-12-20,56405,United States,Chicago
+603,Isaac Joseph,Analyst,Sales,Manufacturing,Male,Caucasian,54,2008-12-21,58006,United States,Seattle
+604,Autumn Reed,Development Engineer,Engineering,Corporate,Female,Caucasian,37,2008-12-22,70770,United States,Miami
+605,Lucy Alexander,Director,Engineering,Manufacturing,Female,Caucasian,45,2008-12-23,189420,United States,Seattle
+606,Elijah Watson,Sr. Manger,Sales,Manufacturing,Male,Caucasian,29,2008-12-24,151413,United States,Seattle
+607,Ava Nelson,Systems Analyst,IT,Manufacturing,Female,Caucasian,63,2008-12-25,53809,United States,Phoenix
+608,Andrew Huynh,Business Partner,Human Resources,Speciality Products,Male,Asian,57,2008-12-26,54051,United States,Miami
+609,Gabriella Gupta,Sr. Account Representative,Sales,Corporate,Female,Asian,41,2008-12-27,95372,China,Shanghai
+610,Austin Rojas,Vice President,Finance,Corporate,Male,Latino,29,2008-12-28,199504,United States,Austin
+611,Angel Xiong,Vice President,IT,Research & Development,Male,Asian,35,2008-12-29,234723,China,Shanghai
+612,Robert Wright,Technical Architect,IT,Manufacturing,Male,Caucasian,30,2008-12-30,67489,United States,Chicago
+613,Hailey Dang,Manager,Marketing,Manufacturing,Female,Asian,64,2008-12-31,108780,China,Shanghai
+614,Vivian Lewis,Manager,Marketing,Manufacturing,Female,Caucasian,65,2009-01-01,104903,United States,Columbus
+615,Lincoln Fong,Analyst II,Sales,Speciality Products,Male,Asian,31,2009-01-02,67171,China,Chongqing
+616,Ezra Ortiz,Quality Engineer,Engineering,Research & Development,Male,Latino,41,2009-01-03,94658,United States,Miami
+617,Ayla Brown,Sr. Manger,Sales,Manufacturing,Female,Caucasian,49,2009-01-04,128303,United States,Phoenix
+618,Penelope Choi,Technical Architect,IT,Speciality Products,Female,Asian,49,2009-01-05,72826,China,Beijing
+619,Wesley Young,Sr. Analyst,Marketing,Speciality Products,Male,Caucasian,33,2009-01-06,98427,United States,Columbus
+620,Kennedy Zhang,Director,Finance,Research & Development,Female,Asian,63,2009-01-07,155320,China,Chongqing
+621,Brooks Stewart,HRIS Analyst,Human Resources,Manufacturing,Male,Black,45,2009-01-08,51983,United States,Columbus
+622,Cooper Valdez,Manager,Sales,Corporate,Male,Latino,50,2009-01-09,113269,Brazil,Sao Paulo
+623,Xavier Davis,Vice President,Finance,Corporate,Male,Caucasian,36,2009-01-10,238236,United States,Seattle
+624,Willow Chen,Manager,Accounting,Corporate,Female,Asian,50,2009-01-11,102033,United States,Austin
+625,Jameson Juarez,Development Engineer,Engineering,Speciality Products,Male,Latino,62,2009-01-12,98230,United States,Miami
+626,Caleb Nelson,Director,Marketing,Corporate,Male,Caucasian,33,2009-01-13,164396,United States,Columbus
+627,Ezekiel Reed,Sr. Manger,IT,Manufacturing,Male,Caucasian,37,2009-01-14,128984,United States,Miami
+628,Layla Collins,IT Systems Architect,IT,Speciality Products,Female,Caucasian,26,2009-01-15,74170,United States,Austin
+629,Claire Romero,Vice President,Marketing,Manufacturing,Female,Latino,37,2009-01-16,219474,Brazil,Manaus
+630,Carter Ortiz,Quality Engineer,Engineering,Speciality Products,Male,Latino,54,2009-01-17,96441,Brazil,Sao Paulo
+631,Austin Edwards,IT Coordinator,IT,Manufacturing,Male,Black,42,2009-01-18,52733,United States,Chicago
+632,Luke Zheng,Director,Human Resources,Speciality Products,Male,Asian,39,2009-01-19,161690,China,Beijing
+633,Nora Le,Sr. Manger,IT,Manufacturing,Female,Asian,53,2009-01-20,154388,United States,Seattle
+634,Autumn Thao,Account Representative,Sales,Manufacturing,Female,Asian,63,2009-01-21,72340,United States,Phoenix
+635,Greyson Dang,Development Engineer,Engineering,Manufacturing,Male,Asian,60,2009-01-22,62239,China,Beijing
+636,Asher Jackson,Sr. Manger,Sales,Speciality Products,Male,Caucasian,50,2009-01-23,123405,United States,Columbus
+637,Alexander Gonzales,Manager,Accounting,Research & Development,Male,Latino,34,2009-01-24,128329,United States,Phoenix
+638,Ethan Joseph,IT Coordinator,IT,Research & Development,Male,Caucasian,45,2009-01-25,49219,United States,Columbus
+639,Angel Stewart,Vice President,Finance,Corporate,Male,Caucasian,28,2009-01-26,250767,United States,Seattle
+640,Eli Richardson,IT Coordinator,IT,Speciality Products,Male,Caucasian,38,2009-01-27,48762,United States,Seattle
+641,Aiden Silva,Vice President,IT,Research & Development,Male,Latino,42,2009-01-28,186725,Brazil,Manaus
+642,Aaliyah Mai,Vice President,IT,Speciality Products,Female,Asian,57,2009-01-29,246589,United States,Phoenix
+643,Caroline Jenkins,Analyst,Finance,Research & Development,Female,Caucasian,27,2009-01-30,49011,United States,Chicago
+644,Lyla Stewart,Sr. Manger,IT,Speciality Products,Female,Caucasian,43,2009-01-31,120321,United States,Austin
+645,Ruby Medina,Director,Sales,Manufacturing,Female,Latino,50,2009-02-01,155351,United States,Seattle
+646,James Bui,Manager,Finance,Manufacturing,Male,Asian,64,2009-02-02,122753,China,Chongqing
+647,Jose Brown,System Administrator ,IT,Speciality Products,Male,Caucasian,43,2009-02-03,67976,United States,Seattle
+648,Logan Mitchell,Analyst II,Marketing,Manufacturing,Male,Caucasian,65,2009-02-04,59833,United States,Columbus
+649,Everly Coleman,Vice President,IT,Corporate,Female,Caucasian,48,2009-02-05,194871,United States,Columbus
+650,Emilia Rivera,Test Engineer,Engineering,Research & Development,Female,Latino,42,2009-02-06,96023,United States,Miami
+651,Charlotte Chu,Network Engineer,IT,Manufacturing,Female,Asian,50,2009-02-07,97537,China,Chengdu
+652,Daniel Shah,Analyst II,Sales,Research & Development,Male,Asian,41,2009-02-08,72425,China,Beijing
+653,Caroline Hu,Sr. Manger,Marketing,Speciality Products,Female,Asian,31,2009-02-09,126353,China,Shanghai
+654,Nevaeh James,Solutions Architect,IT,Speciality Products,Female,Caucasian,45,2009-02-10,66660,United States,Austin
+655,Nicholas Wong,Director,Sales,Research & Development,Male,Asian,27,2009-02-11,174607,United States,Columbus
+656,Christopher Lam,Vice President,Accounting,Manufacturing,Male,Asian,64,2009-02-12,252325,United States,Columbus
+657,Cora Evans,Computer Systems Manager,IT,Speciality Products,Female,Black,45,2009-02-13,86478,United States,Austin
+658,Eloise Trinh,Solutions Architect,IT,Speciality Products,Female,Asian,39,2009-02-14,90535,United States,Miami
+659,Maria Chin,Analyst,Marketing,Manufacturing,Female,Asian,65,2009-02-15,50341,China,Beijing
+660,Cooper Jiang,Analyst II,Accounting,Corporate,Male,Asian,49,2009-02-16,50883,China,Chongqing
+661,Hannah King,Manager,Accounting,Speciality Products,Female,Caucasian,31,2009-02-17,114911,United States,Chicago
+662,Dylan Campbell,Director,Engineering,Speciality Products,Male,Caucasian,45,2009-02-18,153767,United States,Phoenix
+663,Robert Edwards,HRIS Analyst,Human Resources,Corporate,Male,Caucasian,62,2009-02-19,50825,United States,Seattle
+664,Julia Luong,Sr. Manger,Accounting,Research & Development,Female,Asian,55,2009-02-20,142628,China,Chongqing
+665,Lucy Johnson,Manager,IT,Research & Development,Female,Caucasian,57,2009-02-21,103058,United States,Columbus
+666,Ruby Sun,Cloud Infrastructure Architect,IT,Manufacturing,Female,Asian,50,2009-02-22,83418,China,Shanghai
+667,Carson Lu,Engineering Manager,Engineering,Speciality Products,Male,Asian,64,2009-02-23,99354,China,Beijing
+668,Camila Rogers,Controls Engineer,Engineering,Speciality Products,Female,Caucasian,27,2009-02-24,109851,United States,Seattle
+669,Rylee Dinh,Development Engineer,Engineering,Speciality Products,Female,Asian,35,2009-02-25,60132,China,Chongqing
+670,Dylan Chin,Director,Finance,Corporate,Male,Asian,60,2009-02-26,158898,United States,Miami
+671,Adam He,Director,Accounting,Speciality Products,Male,Asian,35,2009-02-27,181356,China,Beijing
+672,Anna Mehta,Cloud Infrastructure Architect,IT,Speciality Products,Female,Asian,32,2009-02-28,78844,United States,Seattle
+673,Silas Estrada,IT Systems Architect,IT,Corporate,Male,Latino,49,2009-03-01,68426,Brazil,Rio de Janerio
+674,Austin Brown,Director,Marketing,Research & Development,Male,Caucasian,48,2009-03-02,194723,United States,Phoenix
+675,Autumn Ortiz,Field Engineer,Engineering,Research & Development,Female,Latino,30,2009-03-03,87744,Brazil,Sao Paulo
+676,Lily Henderson,HRIS Analyst,Human Resources,Manufacturing,Female,Caucasian,61,2009-03-04,64937,United States,Phoenix
+677,Audrey Lee,Development Engineer,Engineering,Speciality Products,Female,Asian,51,2009-03-05,87036,China,Chongqing
+678,Ian Cortez,Analyst II,Marketing,Research & Development,Male,Latino,61,2009-03-06,69352,Brazil,Rio de Janerio
+679,Jack Alexander,Vice President,IT,Manufacturing,Male,Caucasian,56,2009-03-07,228822,United States,Miami
+680,Landon Kim,Manager,Human Resources,Speciality Products,Male,Asian,50,2009-03-08,117226,United States,Phoenix
+681,Lincoln Hall,Director,Accounting,Speciality Products,Male,Caucasian,26,2009-03-09,180664,United States,Chicago
+682,Henry Figueroa,Sr. Manger,Finance,Manufacturing,Male,Latino,46,2009-03-10,134881,Brazil,Manaus
+683,Joseph Ly,Vice President,Marketing,Speciality Products,Male,Asian,40,2009-03-11,242919,China,Chongqing
+684,Isaac Liu,Field Engineer,Engineering,Manufacturing,Male,Asian,60,2009-03-12,88213,China,Chongqing
+685,Everleigh Nunez,Field Engineer,Engineering,Speciality Products,Female,Latino,42,2009-03-13,65507,Brazil,Manaus
+686,Joshua Martin,Sr. Manger,Human Resources,Research & Development,Male,Black,42,2009-03-14,135558,United States,Phoenix
+687,Benjamin Moua,Computer Systems Manager,IT,Manufacturing,Male,Asian,40,2009-03-15,93971,China,Chongqing
+688,Jade Yi,Account Representative,Sales,Speciality Products,Female,Asian,47,2009-03-16,63880,China,Chongqing
+689,Santiago f Gonzalez,Manager,Sales,Research & Development,Male,Latino,36,2009-03-17,105891,United States,Seattle
+690,Ian Wu,Sr. Analyst,Marketing,Manufacturing,Male,Asian,51,2009-03-18,82300,China,Chengdu
+691,Leo Herrera,Sr. Business Partner,Human Resources,Research & Development,Male,Latino,48,2009-03-19,85369,Brazil,Manaus
+692,Asher Morales,Automation Engineer,Engineering,Research & Development,Male,Latino,52,2009-03-20,88272,Brazil,Sao Paulo
+693,Genesis Navarro,Cloud Infrastructure Architect,IT,Corporate,Female,Latino,41,2009-03-21,69803,Brazil,Manaus
+694,Julian Ross,Manager,Marketing,Research & Development,Male,Caucasian,51,2009-03-22,100099,United States,Miami
+695,Hadley Ford,Systems Analyst,IT,Research & Development,Female,Caucasian,52,2009-03-23,45286,United States,Chicago
+696,Ivy Desai,Controls Engineer,Engineering,Research & Development,Female,Asian,59,2009-03-24,119699,China,Shanghai
+697,Nathan Lau,Business Partner,Human Resources,Research & Development,Male,Asian,35,2009-03-25,43336,United States,Austin
+698,Harper Phan,Analyst II,Finance,Manufacturing,Female,Asian,45,2009-03-26,71454,China,Shanghai
+699,Julia Sandoval,Manager,Human Resources,Corporate,Female,Latino,42,2009-03-27,101143,United States,Miami
+700,Violet Hall,Solutions Architect,IT,Corporate,Female,Caucasian,40,2009-03-28,97807,United States,Chicago
+701,Logan Rivera,Director,IT,Research & Development,Male,Latino,59,2009-03-29,172787,Brazil,Rio de Janerio
+702,Henry Campos,Sr. Manger,Human Resources,Corporate,Male,Latino,38,2009-03-30,127801,United States,Phoenix
+703,Robert Yang,Sr. Analyst,Accounting,Speciality Products,Male,Asian,31,2009-03-31,97078,United States,Austin
+704,Jaxson Mai,Vice President,Human Resources,Research & Development,Male,Asian,48,2009-04-01,197367,United States,Austin
+705,Eliza Zheng,Computer Systems Manager,IT,Speciality Products,Female,Asian,48,2009-04-02,91679,China,Chongqing
+706,Nolan Pena,Analyst,Marketing,Manufacturing,Male,Latino,30,2009-04-03,56154,Brazil,Sao Paulo
+707,Jackson Navarro,Director,Sales,Corporate,Male,Latino,52,2009-04-04,163143,Brazil,Sao Paulo
+708,Leo Hsu,Sr. Manger,Human Resources,Manufacturing,Male,Asian,62,2009-04-05,138808,China,Chongqing
+709,Jaxson Santiago,Engineering Manager,Engineering,Research & Development,Male,Latino,56,2009-04-06,78938,United States,Phoenix
+710,Gabriel Holmes,Enterprise Architect,IT,Research & Development,Male,Caucasian,40,2009-04-07,92952,United States,Seattle
+711,Emma Perry,Solutions Architect,IT,Manufacturing,Female,Caucasian,28,2009-04-08,68176,United States,Seattle
+712,Sofia Cheng,Vice President,Accounting,Corporate,Female,Asian,63,2009-04-09,216195,United States,Miami
+713,Owen Han,Analyst,Accounting,Corporate,Male,Asian,28,2009-04-10,52069,China,Chongqing
+714,Mateo Vu,Account Representative,Sales,Speciality Products,Male,Asian,30,2009-04-11,59100,China,Chongqing
+715,Stella Wu,Sr. Manger,Marketing,Speciality Products,Female,Asian,35,2009-04-12,155905,United States,Phoenix
+716,Ayla Ng,Account Representative,Sales,Manufacturing,Female,Asian,46,2009-04-13,73004,China,Beijing
+717,Ian Barnes,Operations Engineer,Engineering,Corporate,Male,Caucasian,47,2009-04-14,115765,United States,Miami
+718,Silas Chavez,Technical Architect,IT,Research & Development,Male,Latino,51,2009-04-15,86431,United States,Columbus
+719,Lincoln Henderson,Business Partner,Human Resources,Speciality Products,Male,Caucasian,28,2009-04-16,48510,United States,Chicago
+720,John Moore,Vice President,IT,Speciality Products,Male,Caucasian,52,2009-04-17,199808,United States,Seattle
+721,Maverick Li,Analyst II,Sales,Research & Development,Male,Asian,34,2009-04-18,58993,United States,Austin
+722,Robert Zhang,Vice President,Marketing,Corporate,Male,Asian,45,2009-04-19,202680,United States,Phoenix
+723,Maverick Medina,Analyst II,Sales,Manufacturing,Male,Latino,39,2009-04-20,51234,United States,Seattle
+724,Brooks Marquez,Vice President,Sales,Corporate,Male,Latino,61,2009-04-21,201464,United States,Chicago
+725,Kayden Jordan,Cloud Infrastructure Architect,IT,Research & Development,Male,Caucasian,48,2009-04-22,99335,United States,Phoenix
+726,Piper Sun,Director,Marketing,Manufacturing,Female,Asian,64,2009-04-23,171217,United States,Seattle
+727,Christopher Howard,Enterprise Architect,IT,Speciality Products,Male,Caucasian,61,2009-04-24,75780,United States,Seattle
+728,Alice Mehta,Analyst II,Sales,Research & Development,Female,Asian,45,2009-04-25,52621,China,Beijing
+729,Grayson Cooper,Sr. Manger,Finance,Speciality Products,Male,Black,64,2009-04-26,159571,United States,Columbus
+730,Daniel Dixon,Operations Engineer,Engineering,Speciality Products,Male,Caucasian,51,2009-04-27,95639,United States,Austin
+731,Josiah Lewis,Manager,IT,Research & Development,Male,Caucasian,46,2009-04-28,127559,United States,Austin
+732,Nicholas Avila,Enterprise Architect,IT,Research & Development,Male,Latino,28,2009-04-29,97336,United States,Austin
+733,Jacob Davis,Director,Accounting,Research & Development,Male,Caucasian,36,2009-04-30,150399,United States,Chicago
+734,Landon Thao,HRIS Analyst,Human Resources,Speciality Products,Male,Asian,25,2009-05-01,67299,United States,Phoenix
+735,Aria Roberts,Manager,Accounting,Corporate,Female,Caucasian,38,2009-05-02,106858,United States,Seattle
+736,Vivian Hunter,Account Representative,Sales,Corporate,Female,Black,26,2009-05-03,66084,United States,Seattle
+737,Samantha Rogers,Analyst,Marketing,Speciality Products,Female,Caucasian,28,2009-05-04,45061,United States,Miami
+738,Aria Castro,Engineering Manager,Engineering,Speciality Products,Female,Latino,45,2009-05-05,113873,Brazil,Rio de Janerio
+739,Elias Alvarado,Sr. Manger,IT,Manufacturing,Male,Latino,56,2009-05-06,146140,Brazil,Manaus
+740,Lyla Chen,Sr. Business Partner,Human Resources,Research & Development,Female,Asian,45,2009-05-07,90870,United States,Chicago
+741,Raelynn Hong,Director,Marketing,Speciality Products,Female,Asian,28,2009-05-08,182321,China,Beijing
+742,Silas Hunter,Solutions Architect,IT,Corporate,Male,Black,55,2009-05-09,62174,United States,Chicago
+743,Wesley Gray,Sr. Analyst,Accounting,Speciality Products,Male,Caucasian,62,2009-05-10,76906,United States,Seattle
+744,Colton Garcia,Solutions Architect,IT,Speciality Products,Male,Latino,55,2009-05-11,80170,United States,Miami
+745,Eli Reed,Systems Analyst,IT,Corporate,Male,Caucasian,51,2009-05-12,53929,United States,Miami
+746,Elena Patterson,Vice President,Finance,Speciality Products,Female,Black,38,2009-05-13,223805,United States,Chicago
+747,Hailey Watson,Sr. Manger,Accounting,Corporate,Female,Black,31,2009-05-14,124629,United States,Columbus
+748,Isaac Woods,Manager,Sales,Corporate,Male,Caucasian,28,2009-05-15,108826,United States,Miami
+749,Joseph Ruiz,Field Engineer,Engineering,Manufacturing,Male,Latino,45,2009-05-16,75819,Brazil,Sao Paulo
+750,Zoe Zhou,Manager,Finance,Corporate,Female,Asian,61,2009-05-17,103096,China,Beijing
+751,Jack Brown,Analyst,Marketing,Corporate,Male,Caucasian,55,2009-05-18,40752,United States,Phoenix
+752,Dominic Clark,Quality Engineer,Engineering,Research & Development,Male,Caucasian,52,2009-05-19,71476,United States,Phoenix
+753,Genesis Hunter,Manager,Finance,Corporate,Female,Caucasian,48,2009-05-20,102847,United States,Chicago
+754,Kennedy Rahman,Vice President,Human Resources,Manufacturing,Female,Asian,49,2009-05-21,211291,China,Chongqing
+755,Kennedy Foster,Manager,Marketing,Speciality Products,Female,Caucasian,53,2009-05-22,113135,United States,Austin
+756,Elias Dang,Director,Engineering,Speciality Products,Male,Asian,64,2009-05-23,158787,China,Chengdu
+757,Jordan Cho,Analyst II,Accounting,Speciality Products,Male,Asian,28,2009-05-24,61410,United States,Phoenix
+758,Liam Zhang,Director,Marketing,Research & Development,Male,Asian,29,2009-05-25,199783,United States,Chicago
+759,Hannah Mejia,Vice President,Marketing,Corporate,Female,Latino,47,2009-05-26,239394,United States,Austin
+760,Luke Vu,Sr. Manger,Marketing,Speciality Products,Male,Asian,52,2009-05-27,154884,China,Shanghai
+761,Hazel Young,Sr. Manger,Sales,Speciality Products,Female,Black,30,2009-05-28,154624,United States,Austin
+762,Natalie Hwang,Sr. Analyst,Finance,Speciality Products,Female,Asian,63,2009-05-29,89523,United States,Phoenix
+763,Thomas Vazquez,Director,Engineering,Corporate,Male,Latino,46,2009-05-30,173629,Brazil,Sao Paulo
+764,Autumn Gonzales,Analyst II,Sales,Corporate,Female,Latino,34,2009-05-31,72126,Brazil,Manaus
+765,Noah Chen,Sr. Manger,Marketing,Manufacturing,Male,Asian,63,2009-06-01,148321,China,Beijing
+766,Kennedy Do,Computer Systems Manager,IT,Manufacturing,Female,Asian,42,2009-06-02,67398,United States,Phoenix
+767,Leilani Chow,Director,Human Resources,Corporate,Female,Asian,27,2009-06-03,199041,China,Beijing
+768,Jameson Martin,Technical Architect,IT,Corporate,Male,Caucasian,37,2009-06-04,71695,United States,Phoenix
+769,Penelope Coleman,Analyst,Finance,Corporate,Female,Black,36,2009-06-05,48906,United States,Miami
+770,Madison Her,Technical Architect,IT,Speciality Products,Female,Asian,56,2009-06-06,82806,United States,Seattle
+771,Eva Coleman,Director,IT,Research & Development,Female,Black,37,2009-06-07,167199,United States,Seattle
+772,Anthony Carter,Director,Engineering,Speciality Products,Male,Caucasian,41,2009-06-08,155926,United States,Columbus
+773,Madeline Walker,Sr. Analyst,Finance,Speciality Products,Female,Caucasian,34,2009-06-09,77203,United States,Chicago
+774,Harper Chin,Quality Engineer,Engineering,Manufacturing,Female,Asian,50,2009-06-10,92209,China,Shanghai
+775,Evelyn Jung,Analyst,Sales,Research & Development,Female,Asian,30,2009-06-11,48340,China,Beijing
+776,Camila Li,Sr. Manger,IT,Research & Development,Female,Asian,60,2009-06-12,126911,China,Shanghai
+777,John Cho,Director,Human Resources,Speciality Products,Male,Asian,47,2009-06-13,195385,China,Chengdu
+778,Madeline Watson,Account Representative,Sales,Research & Development,Female,Black,40,2009-06-14,62411,United States,Miami
+779,Ella Hunter,Analyst,Finance,Manufacturing,Female,Caucasian,51,2009-06-15,53799,United States,Columbus
+780,Jordan Zhu,Sr. Manger,Marketing,Manufacturing,Male,Asian,32,2009-06-16,143970,United States,Seattle
+781,Madeline Allen,Cloud Infrastructure Architect,IT,Manufacturing,Female,Caucasian,30,2009-06-17,94652,United States,Seattle
+782,Aurora Simmons,Development Engineer,Engineering,Corporate,Female,Caucasian,51,2009-06-18,96475,United States,Austin
+783,Samantha Woods,Analyst,Accounting,Speciality Products,Female,Caucasian,56,2009-06-19,54829,United States,Phoenix
+784,Andrew Reed,System Administrator ,IT,Corporate,Male,Black,28,2009-06-20,65341,United States,Miami
+785,Caleb Flores,Manager,Human Resources,Manufacturing,Male,Latino,34,2009-06-21,113909,Brazil,Rio de Janerio
+786,Everett Khan,Solutions Architect,IT,Manufacturing,Male,Asian,43,2009-06-22,86417,United States,Chicago
+787,Nevaeh Jones,Vice President,Sales,Manufacturing,Female,Caucasian,31,2009-06-23,219693,United States,Austin
+788,Alice Xiong,Vice President,Engineering,Manufacturing,Female,Asian,55,2009-06-24,221465,China,Chengdu
+789,Charlotte Chang,Manager,Sales,Research & Development,Female,Asian,50,2009-06-25,106428,United States,Chicago
+790,Luca Truong,Director,Marketing,Corporate,Male,Asian,45,2009-06-26,168846,China,Chongqing
+791,Madison Hunter,Network Administrator,IT,Corporate,Female,Caucasian,40,2009-06-27,61523,United States,Columbus
+792,Hunter Ortiz,Sr. Analyst,Finance,Corporate,Male,Latino,46,2009-06-28,86061,Brazil,Rio de Janerio
+793,Piper Richardson,Sr. Analyst,Sales,Corporate,Female,Caucasian,38,2009-06-29,80024,United States,Columbus
+794,Camila Watson,Vice President,Finance,Speciality Products,Female,Caucasian,32,2009-06-30,190253,United States,Austin
+795,Miles Evans,Network Architect,IT,Manufacturing,Male,Caucasian,54,2009-07-01,87216,United States,Miami
+796,Nova Hsu,Manager,Human Resources,Speciality Products,Female,Asian,32,2009-07-02,101870,United States,Phoenix
+797,Carter Turner,Sr. Analyst,Marketing,Corporate,Male,Caucasian,33,2009-07-03,91632,United States,Phoenix
+798,Grayson Chan,Engineering Manager,Engineering,Speciality Products,Male,Asian,46,2009-07-04,114250,China,Chengdu
+799,Miles Dang,IT Coordinator,IT,Speciality Products,Male,Asian,61,2009-07-05,40063,United States,Miami
+800,Cora Jiang,Vice President,IT,Corporate,Female,Asian,53,2009-07-06,182202,United States,Austin
+801,Isla Han,Technical Architect,IT,Manufacturing,Female,Asian,58,2009-07-07,86089,United States,Chicago
+802,Logan Soto,Vice President,Finance,Research & Development,Male,Latino,36,2009-07-08,223404,United States,Columbus
+803,Everly Walker,Sr. Manger,Sales,Research & Development,Female,Caucasian,62,2009-07-09,137995,United States,Austin
+804,Joshua Chin,Sr. Manger,Marketing,Manufacturing,Male,Asian,60,2009-07-10,121480,United States,Phoenix
+805,Lillian Chen,Sr. Manger,Marketing,Research & Development,Female,Asian,25,2009-07-11,157057,United States,Columbus
+806,Jordan Gomez,Sr. Analyst,Accounting,Research & Development,Male,Latino,58,2009-07-12,98769,Brazil,Rio de Janerio
+807,Lydia Huynh,Account Representative,Sales,Speciality Products,Female,Asian,45,2009-07-13,60113,United States,Chicago
+808,Eliana Li,Test Engineer,Engineering,Research & Development,Female,Asian,63,2009-07-14,67987,United States,Miami
+809,Hailey Foster,Controls Engineer,Engineering,Manufacturing,Female,Black,55,2009-07-15,95562,United States,Chicago
+810,Dominic Thomas,Analyst II,Marketing,Manufacturing,Male,Caucasian,48,2009-07-16,74655,United States,Austin
+811,Henry Jung,Automation Engineer,Engineering,Manufacturing,Male,Asian,57,2009-07-17,103183,United States,Austin
+812,Skylar Carrillo,Engineering Manager,Engineering,Corporate,Female,Latino,44,2009-07-18,92753,United States,Austin
+813,Everleigh Shah,Test Engineer,Engineering,Research & Development,Female,Asian,36,2009-07-19,96757,United States,Columbus
+814,Lincoln Wong,Sr. Analyst,Finance,Corporate,Male,Asian,49,2009-07-20,80700,United States,Columbus
+815,Emery Ford,Analyst II,Marketing,Corporate,Female,Caucasian,39,2009-07-21,58745,United States,Austin
+816,Jayden Jimenez,Manager,Human Resources,Corporate,Male,Latino,46,2009-07-22,102167,Brazil,Rio de Janerio
+817,Emery Zhang,Field Engineer,Engineering,Corporate,Female,Asian,45,2009-07-23,89659,China,Beijing
+818,Hailey Lai,Sr. Manger,Finance,Manufacturing,Female,Asian,42,2009-07-24,150034,China,Beijing
+819,Penelope Johnson,Sr. Analyst,Marketing,Research & Development,Female,Caucasian,34,2009-07-25,83066,United States,Chicago
+820,Roman Martinez,Sr. Manger,Finance,Research & Development,Male,Latino,31,2009-07-26,145846,Brazil,Manaus
+821,Clara Huynh,IT Coordinator,IT,Speciality Products,Female,Asian,39,2009-07-27,48415,China,Shanghai
+822,Julian Lee,IT Systems Architect,IT,Corporate,Male,Asian,51,2009-07-28,91399,United States,Seattle
+823,Emery Mitchell,Vice President,Finance,Manufacturing,Female,Caucasian,48,2009-07-29,231567,United States,Seattle
+824,Christopher Butler,Network Architect,IT,Manufacturing,Male,Caucasian,41,2009-07-30,67468,United States,Miami
+825,Adam Kaur,Manager,IT,Corporate,Male,Asian,60,2009-07-31,109059,China,Chengdu
+826,Ezra Liang,Vice President,Finance,Research & Development,Male,Asian,52,2009-08-01,216999,United States,Miami
+827,Sebastian Fong,Sr. Manger,IT,Manufacturing,Male,Asian,46,2009-08-02,136716,United States,Austin
+828,Ryan Holmes,Sr. Manger,Marketing,Speciality Products,Male,Caucasian,45,2009-08-03,127422,United States,Columbus
+829,Sadie Patterson,Sr. Analyst,Accounting,Speciality Products,Female,Caucasian,38,2009-08-04,89390,United States,Seattle
+830,Olivia Harris,Director,Sales,Speciality Products,Female,Caucasian,63,2009-08-05,181216,United States,Columbus
+831,Isabella Soto,Vice President,Finance,Corporate,Female,Latino,27,2009-08-06,255369,Brazil,Sao Paulo
+832,Theodore Dinh,Technical Architect,IT,Manufacturing,Male,Asian,59,2009-08-07,99975,China,Chongqing
+833,Jade Figueroa,Sr. Analyst,Sales,Manufacturing,Female,Latino,33,2009-08-08,88343,Brazil,Rio de Janerio
+834,Leah Bryant,IT Coordinator,IT,Manufacturing,Female,Caucasian,55,2009-08-09,40124,United States,Austin
+835,Axel Chu,Systems Analyst,IT,Research & Development,Male,Asian,43,2009-08-10,59888,China,Beijing
+836,Christopher Lim,Director,IT,Research & Development,Male,Asian,55,2009-08-11,184648,China,Shanghai
+837,David Barnes,Director,IT,Corporate,Male,Caucasian,64,2009-08-12,186503,United States,Columbus
+838,Andrew Holmes,Vice President,IT,Speciality Products,Male,Black,59,2009-08-13,246619,United States,Miami
+839,Dominic Baker,Sr. Analyst,Accounting,Manufacturing,Male,Black,51,2009-08-14,91853,United States,Chicago
+840,Emery Acosta,Vice President,Sales,Research & Development,Female,Latino,42,2009-08-15,181452,United States,Columbus
+841,Jacob Doan,Analyst II,Sales,Speciality Products,Male,Asian,55,2009-08-16,67130,United States,Miami
+842,Elias Figueroa,Sr. Manger,Finance,Corporate,Male,Latino,45,2009-08-17,144754,United States,Phoenix
+843,Cora Rivera,Sr. Analyst,Marketing,Corporate,Female,Latino,42,2009-08-18,94430,United States,Seattle
+844,Ruby Choi,Analyst,Accounting,Manufacturing,Female,Asian,40,2009-08-19,57225,United States,Columbus
+845,Kinsley Henry,Director,Marketing,Manufacturing,Female,Black,45,2009-08-20,150577,United States,Miami
+846,Mason Cao,Analyst II,Finance,Corporate,Male,Asian,52,2009-08-21,74449,China,Beijing
+847,Natalia Vu,Analyst,Accounting,Research & Development,Female,Asian,54,2009-08-22,55518,United States,Columbus
+848,Adeline Huang,Controls Engineer,Engineering,Manufacturing,Female,Asian,34,2009-08-23,99989,China,Chengdu
+849,Dylan Dominguez,Sr. Analyst,Marketing,Research & Development,Male,Latino,42,2009-08-24,99697,Brazil,Rio de Janerio
+850,William Cao,Sr. Analyst,Marketing,Manufacturing,Male,Asian,63,2009-08-25,77629,China,Beijing
+851,David Herrera,Engineering Manager,Engineering,Speciality Products,Male,Latino,32,2009-08-26,102298,Brazil,Rio de Janerio
+852,Sophie Vang,Sr. Manger,Marketing,Manufacturing,Female,Asian,25,2009-08-27,136810,China,Chongqing
+853,Henry Alvarez,Sr. Business Partner,Human Resources,Manufacturing,Male,Latino,48,2009-08-28,87158,Brazil,Manaus
+854,Mila Juarez,Manager,Sales,Speciality Products,Female,Latino,38,2009-08-29,119647,Brazil,Sao Paulo
+855,Grayson Chin,Vice President,IT,Research & Development,Male,Asian,26,2009-08-30,256561,United States,Austin
+856,Maverick Henry,Computer Systems Manager,IT,Research & Development,Male,Caucasian,26,2009-08-31,69110,United States,Chicago
+857,Ariana Kim,Network Architect,IT,Manufacturing,Female,Asian,33,2009-09-01,96366,China,Chengdu
+858,Madison Kumar,Director,Accounting,Speciality Products,Female,Asian,55,2009-09-02,188727,China,Chengdu
+859,John Contreras,Analyst II,Marketing,Manufacturing,Male,Latino,35,2009-09-03,66889,United States,Columbus
+860,Hailey Xi,Manager,Accounting,Corporate,Female,Asian,52,2009-09-04,111006,China,Chongqing
+861,Lydia Williams,System Administrator ,IT,Manufacturing,Female,Black,35,2009-09-05,91592,United States,Chicago
+862,Roman King,Analyst II,Finance,Corporate,Male,Caucasian,60,2009-09-06,58671,United States,Columbus
+863,Quinn Xiong,Test Engineer,Engineering,Research & Development,Female,Asian,55,2009-09-07,73248,United States,Columbus
+864,Lucas Ramos,Sr. Business Partner,Human Resources,Speciality Products,Male,Latino,56,2009-09-08,72303,United States,Phoenix
+865,Andrew Moore,Operations Engineer,Engineering,Manufacturing,Male,Caucasian,47,2009-09-09,120628,United States,Chicago
+866,Everleigh Ng,Sr. Manger,Finance,Research & Development,Female,Asian,51,2009-09-10,146742,China,Shanghai
+867,Alice Lopez,Test Engineer,Engineering,Speciality Products,Female,Latino,48,2009-09-11,82907,United States,Seattle
+868,Camila Evans,Manager,Marketing,Research & Development,Female,Black,55,2009-09-12,113950,United States,Miami
+869,Hadley Dang,Vice President,Accounting,Corporate,Female,Asian,47,2009-09-13,243568,United States,Austin
+870,Natalia Diaz,Operations Engineer,Engineering,Corporate,Female,Latino,62,2009-09-14,79785,United States,Austin
+871,Greyson Sanders,Cloud Infrastructure Architect,IT,Speciality Products,Male,Black,28,2009-09-15,90304,United States,Chicago
+872,Zoe Do,Analyst II,Sales,Speciality Products,Female,Asian,60,2009-09-16,51877,China,Beijing
+873,Riley Padilla,Technical Architect,IT,Manufacturing,Female,Latino,35,2009-09-17,78940,United States,Miami
+874,Ella White,Development Engineer,Engineering,Manufacturing,Female,Caucasian,25,2009-09-18,71359,United States,Phoenix
+875,Hannah Gomez,Technical Architect,IT,Manufacturing,Female,Latino,25,2009-09-19,83934,United States,Miami
+876,Paisley Hall,Director,Human Resources,Speciality Products,Female,Caucasian,41,2009-09-20,153275,United States,Columbus
+877,Kai Flores,Development Engineer,Engineering,Manufacturing,Male,Latino,35,2009-09-21,65566,United States,Seattle
+878,Melody Valdez,Director,IT,Manufacturing,Female,Latino,28,2009-09-22,160385,United States,Miami
+879,Ezra Simmons,Automation Engineer,Engineering,Speciality Products,Male,Caucasian,38,2009-09-23,78237,United States,Phoenix
+880,Luke Martin,Analyst,Finance,Manufacturing,Male,Black,25,2009-09-24,41336,United States,Miami
+881,Parker Allen,Sr. Analyst,Sales,Speciality Products,Male,Caucasian,31,2009-09-25,81828,United States,Miami
+882,Samantha Barnes,Vice President,Marketing,Speciality Products,Female,Caucasian,29,2009-09-26,190401,United States,Columbus
+883,Eliana Grant,Engineering Manager,Engineering,Speciality Products,Female,Caucasian,64,2009-09-27,109456,United States,Chicago
+884,Natalia Owens,Manager,Human Resources,Manufacturing,Female,Caucasian,31,2009-09-28,104162,United States,Austin
+885,Raelynn Rios,Vice President,Sales,Manufacturing,Female,Latino,43,2009-09-29,258498,United States,Columbus
+886,Grayson Soto,Business Partner,Human Resources,Manufacturing,Male,Latino,34,2009-09-30,52200,United States,Columbus
+887,Layla Salazar,Solutions Architect,IT,Corporate,Female,Latino,59,2009-10-01,90901,United States,Seattle
+888,Greyson Lam,Vice President,Accounting,Manufacturing,Male,Asian,25,2009-10-02,198243,United States,Miami
+889,Savannah Singh,Director,Marketing,Speciality Products,Female,Asian,53,2009-10-03,164399,United States,Seattle
+890,Santiago f Gray,Quality Engineer,Engineering,Corporate,Male,Caucasian,27,2009-10-04,80745,United States,Chicago
+891,Ezra Simmons,Network Administrator,IT,Manufacturing,Male,Black,31,2009-10-05,71192,United States,Austin
+892,Scarlett Rodriguez,Sr. Analyst,Finance,Manufacturing,Female,Latino,60,2009-10-06,71699,Brazil,Manaus
+893,Naomi Washington,Manager,IT,Speciality Products,Female,Caucasian,51,2009-10-07,107195,United States,Austin
+894,Cameron Powell,Business Partner,Human Resources,Manufacturing,Male,Black,41,2009-10-08,49186,United States,Austin
+895,Everleigh White,Network Architect,IT,Speciality Products,Female,Caucasian,59,2009-10-09,86831,United States,Phoenix
+896,Oliver Yang,Director,Marketing,Speciality Products,Male,Asian,31,2009-10-10,176710,United States,Miami
+897,Dominic Hu,Manager,Accounting,Speciality Products,Male,Asian,34,2009-10-11,118708,China,Shanghai
+898,Andrew Thomas,Controls Engineer,Engineering,Manufacturing,Male,Caucasian,36,2009-10-12,113781,United States,Columbus
+899,Penelope Fong,Director,Accounting,Corporate,Female,Asian,60,2009-10-13,186378,China,Chongqing
+900,Leonardo Luong,Manager,Finance,Manufacturing,Male,Asian,52,2009-10-14,116527,United States,Phoenix
+901,Chloe Salazar,Sr. Manger,Human Resources,Speciality Products,Female,Latino,45,2009-10-15,152353,United States,Seattle
+902,Sophia Ahmed,Sr. Manger,Sales,Speciality Products,Female,Asian,30,2009-10-16,127972,United States,Seattle
+903,Brooklyn Ruiz,IT Coordinator,IT,Manufacturing,Female,Latino,61,2009-10-17,57446,United States,Phoenix
+904,Adrian Ruiz,Sr. Analyst,Finance,Corporate,Male,Latino,34,2009-10-18,95499,Brazil,Sao Paulo
+905,Miles Hsu,Analyst II,Finance,Research & Development,Male,Asian,55,2009-10-19,74552,China,Chengdu
+906,Alexander Bryant,Field Engineer,Engineering,Speciality Products,Male,Caucasian,30,2009-10-20,88758,United States,Seattle
+907,Cooper Yoon,Engineering Manager,Engineering,Research & Development,Male,Asian,60,2009-10-21,106079,United States,Austin
+908,Connor Bell,Network Administrator,IT,Corporate,Male,Black,54,2009-10-22,76352,United States,Austin
+909,Alexander Foster,Analyst II,Marketing,Manufacturing,Male,Black,35,2009-10-23,51513,United States,Columbus
+910,Mila Hong,Test Engineer,Engineering,Research & Development,Female,Asian,30,2009-10-24,86858,China,Chongqing
+911,Connor Grant,Sr. Analyst,Accounting,Speciality Products,Male,Caucasian,27,2009-10-25,74077,United States,Seattle
+912,Vivian Thao,Quality Engineer,Engineering,Research & Development,Female,Asian,45,2009-10-26,60017,United States,Chicago
+913,Audrey Hwang,Sr. Analyst,Accounting,Speciality Products,Female,Asian,45,2009-10-27,89841,China,Beijing
+914,Nathan Chan,Cloud Infrastructure Architect,IT,Corporate,Male,Asian,45,2009-10-28,91276,United States,Seattle
+915,Jameson Alvarado,Enterprise Architect,IT,Manufacturing,Male,Latino,47,2009-10-29,92897,Brazil,Sao Paulo
+916,Amelia Choi,Manager,Marketing,Speciality Products,Female,Asian,43,2009-10-30,117278,United States,Miami
+917,Gabriel Yu,Technical Architect,IT,Speciality Products,Male,Asian,42,2009-10-31,64677,China,Chongqing
+918,Easton Bailey,Manager,Accounting,Manufacturing,Male,Caucasian,29,2009-11-01,113527,United States,Austin
+919,Charlotte Vo,System Administrator ,IT,Speciality Products,Female,Asian,57,2009-11-02,74854,United States,Seattle
+920,Layla Scott,Sr. Manger,Accounting,Speciality Products,Female,Caucasian,48,2009-11-03,124774,United States,Phoenix
+921,Adeline Yang,Cloud Infrastructure Architect,IT,Corporate,Female,Asian,53,2009-11-04,86173,China,Chongqing
+922,Camila Cortez,Manager,Marketing,Manufacturing,Female,Latino,29,2009-11-05,129541,United States,Phoenix
+923,Abigail Mejia,Quality Engineer,Engineering,Corporate,Female,Latino,56,2009-11-06,98581,Brazil,Rio de Janerio
+924,Jade Hunter,Cloud Infrastructure Architect,IT,Corporate,Female,Caucasian,42,2009-11-07,96636,United States,Columbus
+925,Avery Grant,Enterprise Architect,IT,Research & Development,Female,Caucasian,49,2009-11-08,88777,United States,Chicago
+926,Kinsley Martinez,Director,Human Resources,Speciality Products,Female,Latino,52,2009-11-09,177443,Brazil,Sao Paulo
+927,Xavier Zheng,Account Representative,Sales,Manufacturing,Male,Asian,31,2009-11-10,55854,United States,Austin
+928,Luke Sanchez,Sr. Manger,Human Resources,Manufacturing,Male,Latino,41,2009-11-11,129903,Brazil,Sao Paulo
+929,Madeline Hoang,Systems Analyst,IT,Research & Development,Female,Asian,28,2009-11-12,50111,China,Chengdu
+930,Rylee Yu,Vice President,Finance,Speciality Products,Female,Asian,54,2009-11-13,247022,China,Beijing
+931,Hadley Contreras,Director,Engineering,Corporate,Female,Latino,60,2009-11-14,178502,United States,Austin
+932,Jade Li,Director,IT,Speciality Products,Female,Asian,47,2009-11-15,183156,United States,Seattle
+933,Isaac Sanders,HRIS Analyst,Human Resources,Manufacturing,Male,Caucasian,49,2009-11-16,57606,United States,Miami
+934,Violet Garcia,Sr. Analyst,Marketing,Speciality Products,Female,Latino,35,2009-11-17,80622,United States,Austin
+935,William Vu,Account Representative,Sales,Speciality Products,Male,Asian,37,2009-11-18,56037,China,Shanghai
+936,Allison Ayala,Analyst,Finance,Corporate,Female,Latino,36,2009-11-19,43363,United States,Austin
+937,Landon Brown,Vice President,Marketing,Corporate,Male,Caucasian,26,2009-11-20,223055,United States,Columbus
+938,Mason Zhao,Technical Architect,IT,Research & Development,Male,Asian,46,2009-11-21,94790,China,Chongqing
+939,Adam Dang,Director,Sales,Research & Development,Male,Asian,45,2009-11-22,166331,China,Chongqing
+940,Maria Griffin,Manager,Marketing,Manufacturing,Female,Caucasian,59,2009-11-23,129708,United States,Miami
+941,Hailey Yee,Account Representative,Sales,Research & Development,Female,Asian,54,2009-11-24,56239,China,Chongqing
+942,Samuel Song,Director,Sales,Corporate,Male,Asian,31,2009-11-25,191026,United States,Columbus
+943,Luna Taylor,Network Administrator,IT,Manufacturing,Female,Caucasian,47,2009-11-26,87806,United States,Seattle
+944,Scarlett Hill,Director,Engineering,Speciality Products,Female,Black,45,2009-11-27,187205,United States,Columbus
+945,Elias Ahmed,Vice President,Marketing,Corporate,Male,Asian,57,2009-11-28,183190,United States,Chicago
+946,Julia Morris,Sr. Manger,Human Resources,Corporate,Female,Caucasian,60,2009-11-29,150855,United States,Phoenix
+947,Angel Do,IT Systems Architect,IT,Speciality Products,Male,Asian,34,2009-11-30,94735,China,Beijing
+948,Colton Thao,Manager,Human Resources,Manufacturing,Male,Asian,55,2009-12-01,125936,China,Chongqing
+949,Ezekiel Delgado,Director,Engineering,Speciality Products,Male,Latino,40,2009-12-02,187187,Brazil,Manaus
+950,Eleanor Williams,Enterprise Architect,IT,Speciality Products,Female,Caucasian,61,2009-12-03,64462,United States,Chicago
+951,Ivy Tang,Development Engineer,Engineering,Speciality Products,Female,Asian,48,2009-12-04,65340,China,Shanghai
+952,Christopher Chung,Controls Engineer,Engineering,Corporate,Male,Asian,28,2009-12-05,95670,United States,Phoenix
+953,Ezekiel Fong,Vice President,Sales,Research & Development,Male,Asian,56,2009-12-06,216949,China,Shanghai
+954,Benjamin Ramirez,Network Engineer,IT,Research & Development,Male,Latino,48,2009-12-07,68987,United States,Chicago
+955,Eva Rivera,Director,Sales,Manufacturing,Female,Latino,36,2009-12-08,151703,United States,Miami
+956,Nova Coleman,System Administrator ,IT,Manufacturing,Female,Caucasian,44,2009-12-09,74738,United States,Miami
+957,Ruby Washington,Analyst,Marketing,Research & Development,Female,Black,65,2009-12-10,56686,United States,Seattle
+958,Kinsley Vega,Vice President,Accounting,Corporate,Female,Latino,33,2009-12-11,258426,Brazil,Rio de Janerio
+959,Caroline Phan,Sr. Manger,Finance,Corporate,Female,Asian,41,2009-12-12,155004,United States,Austin
+960,Grayson James,Operations Engineer,Engineering,Speciality Products,Male,Caucasian,54,2009-12-13,113982,United States,Seattle
+961,Aiden Le,Cloud Infrastructure Architect,IT,Corporate,Male,Asian,55,2009-12-14,99774,United States,Austin
+962,Audrey Richardson,Director,IT,Manufacturing,Female,Caucasian,46,2009-12-15,166259,United States,Chicago
+963,Lyla Yoon,Vice President,Accounting,Manufacturing,Female,Asian,38,2009-12-16,191571,United States,Austin
+964,Mila Leung,Sr. Analyst,Marketing,Corporate,Female,Asian,39,2009-12-17,99017,China,Beijing
+965,Cameron Young,Vice President,Engineering,Manufacturing,Male,Caucasian,63,2009-12-18,180994,United States,Seattle
+966,Joshua Lin,Technical Architect,IT,Research & Development,Male,Asian,37,2009-12-19,80055,China,Beijing
+967,Eloise Alexander,Vice President,Human Resources,Corporate,Female,Black,28,2009-12-20,208210,United States,Seattle
+968,Aurora Ali,Manager,Marketing,Research & Development,Female,Asian,30,2009-12-21,120341,United States,Seattle
+969,Mila Roberts,Sr. Business Partner,Human Resources,Corporate,Female,Caucasian,30,2009-12-22,88663,United States,Phoenix
+970,Eli Han,Sr. Analyst,Accounting,Manufacturing,Male,Asian,40,2009-12-23,89984,China,Chengdu
+971,Lucy Fong,Sr. Account Representative,Sales,Corporate,Female,Asian,40,2009-12-24,96719,China,Chengdu
+972,Athena Vasquez,Field Engineer,Engineering,Speciality Products,Female,Latino,59,2009-12-25,69578,Brazil,Rio de Janerio
+973,Jace Zhang,Service Desk Analyst,IT,Speciality Products,Male,Asian,31,2009-12-26,95963,China,Chengdu
+974,Zoe Sanchez,Sr. Analyst,Accounting,Research & Development,Female,Latino,53,2009-12-27,90212,Brazil,Sao Paulo
+975,Vivian Chu,Sr. Account Representative,Sales,Research & Development,Female,Asian,46,2009-12-28,72131,China,Shanghai
+976,Liam Grant,Sr. Business Partner,Human Resources,Research & Development,Male,Caucasian,30,2009-12-29,93734,United States,Phoenix
+977,Isaac Stewart,Director,Marketing,Speciality Products,Male,Caucasian,25,2009-12-30,172007,United States,Miami
+978,Samuel Vega,Analyst II,Marketing,Speciality Products,Male,Latino,37,2009-12-31,69570,United States,Miami
+979,Emery Do,Account Representative,Sales,Research & Development,Female,Asian,40,2010-01-01,55457,United States,Columbus
+980,Elijah Henry,Manager,IT,Corporate,Male,Caucasian,32,2010-01-02,127148,United States,Miami
+981,Eleanor Chan,Sr. Manger,Accounting,Manufacturing,Female,Asian,49,2010-01-03,129124,China,Shanghai
+982,Skylar Liu,Director,IT,Research & Development,Female,Asian,29,2010-01-04,161203,China,Chengdu
+983,Everleigh Washington,HRIS Analyst,Human Resources,Research & Development,Female,Caucasian,64,2010-01-05,64057,United States,Phoenix
+984,Nevaeh Hsu,Sr. Manger,Human Resources,Manufacturing,Female,Asian,32,2010-01-06,154956,United States,Phoenix
+985,Athena Jordan,System Administrator ,IT,Manufacturing,Female,Black,42,2010-01-07,72486,United States,Seattle
+986,Emma Luna,Field Engineer,Engineering,Speciality Products,Female,Latino,52,2010-01-08,97398,Brazil,Manaus
+987,Ezekiel Bryant,Sr. Analyst,Finance,Manufacturing,Male,Caucasian,55,2010-01-09,77396,United States,Miami
+988,Zoe Romero,Network Architect,IT,Manufacturing,Female,Latino,32,2010-01-10,88072,Brazil,Sao Paulo
+989,Ian Ngo,Manager,Sales,Speciality Products,Male,Asian,52,2010-01-11,117062,United States,Phoenix
+990,Brooklyn Daniels,Analyst,Marketing,Speciality Products,Female,Caucasian,64,2010-01-12,57032,United States,Miami
+991,Hudson Williams,Vice President,Sales,Speciality Products,Male,Black,36,2010-01-13,195200,United States,Austin
+992,Paisley Gomez,Sr. Analyst,Sales,Manufacturing,Female,Latino,57,2010-01-14,98150,Brazil,Rio de Janerio
+993,Noah King,Development Engineer,Engineering,Speciality Products,Male,Black,56,2010-01-15,62575,United States,Miami
+994,Elena Tan,Vice President,Engineering,Manufacturing,Female,Asian,50,2010-01-16,181801,China,Chongqing
+995,Abigail Vang,Operations Engineer,Engineering,Research & Development,Female,Asian,40,2010-01-17,109680,China,Chengdu
+996,Ivy Daniels,Sr. Manger,Human Resources,Speciality Products,Female,Caucasian,41,2010-01-18,131841,United States,Columbus
+997,Logan Bryant,Sr. Manger,Marketing,Speciality Products,Male,Caucasian,30,2010-01-19,148485,United States,Miami
+998,Sophie Oh,Network Engineer,IT,Corporate,Female,Asian,29,2010-01-20,63985,United States,Miami
+999,Peyton Harris,Enterprise Architect,IT,Research & Development,Female,Caucasian,45,2010-01-21,64505,United States,Miami
+1000,Bella Holmes,Director,Accounting,Research & Development,Female,Caucasian,35,2010-01-22,161269,United States,Miami
